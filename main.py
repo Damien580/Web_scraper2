@@ -18,9 +18,9 @@ def get_books():
             book_page = classic.article.h3.a['href'] #gets value of href in the <a> tag.
             # if high_price not in book_price: #if specific value of variable is not present:
             with open(f'books/{index}.txt', 'w') as f:
-                f.write(f'Book Title: {book_title}')
-                f.write(f'Book Price: {book_price}')
-                f.write(f'In Stock: {book_stock.strip()}')
+                f.write(f'Book Title: {book_title} \n')
+                f.write(f'Book Price: {book_price} \n')
+                f.write(f'In Stock: {book_stock.strip()} \n')
                 f.write(f'Book Page: {book_page}')
             print(f'Book Saved: {book_title}')
 

@@ -1,1 +1,4 @@
-Book Title: Animal FarmBook Price: Â£57.22In Stock: InstockBook Page: ../../../animal-farm_313/index.html
+Book Title: Animal Farm 
+Book Price: Â£57.22 
+In Stock: Instock 
+Book Page: ../../../animal-farm_313/index.html

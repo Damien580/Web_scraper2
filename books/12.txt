@@ -1,1 +1,4 @@
-Book Title: And Then There Were ...Book Price: Â£35.01In Stock: InstockBook Page: ../../../and-then-there-were-none_119/index.html
+Book Title: And Then There Were ... 
+Book Price: Â£35.01 
+In Stock: Instock 
+Book Page: ../../../and-then-there-were-none_119/index.html

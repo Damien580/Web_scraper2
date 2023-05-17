@@ -1,1 +1,4 @@
-Book Title: The Story of Hong ...Book Price: Â£43.19In Stock: InstockBook Page: ../../../the-story-of-hong-gildong_84/index.html
+Book Title: The Story of Hong ... 
+Book Price: Â£43.19 
+In Stock: Instock 
+Book Page: ../../../the-story-of-hong-gildong_84/index.html
