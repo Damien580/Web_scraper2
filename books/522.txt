@@ -1,4 +1,0 @@
-Book Title: Meternity
-Book Price: Â£43.58
-In Stock: Instock
-Book Page: ../../meternity_478/index.html

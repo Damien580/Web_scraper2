@@ -1,4 +1,0 @@
-Book Title: Twenties Girl
-Book Price: Â£42.80
-In Stock: Instock
-Book Page: ../../twenties-girl_292/index.html

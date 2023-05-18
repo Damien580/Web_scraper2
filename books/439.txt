@@ -1,4 +1,0 @@
-Book Title: Don't Forget Steven
-Book Price: Â£33.23
-In Stock: Instock
-Book Page: ../../dont-forget-steven_561/index.html

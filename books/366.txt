@@ -1,4 +1,0 @@
-Book Title: The Diary of a ...
-Book Price: Â£59.90
-In Stock: Instock
-Book Page: ../../the-diary-of-a-young-girl_634/index.html

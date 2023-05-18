@@ -1,4 +1,0 @@
-Book Title: Booked
-Book Price: Â£17.49
-In Stock: Instock
-Book Page: ../../booked_365/index.html

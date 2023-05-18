@@ -1,4 +1,0 @@
-Book Title: The Sense of an ...
-Book Price: Â£31.38
-In Stock: Instock
-Book Page: ../../the-sense-of-an-ending_111/index.html

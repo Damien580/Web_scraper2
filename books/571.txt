@@ -1,4 +1,0 @@
-Book Title: Girl, Interrupted
-Book Price: Â£42.14
-In Stock: Instock
-Book Page: ../../girl-interrupted_429/index.html

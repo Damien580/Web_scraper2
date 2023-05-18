@@ -1,4 +1,0 @@
-Book Title: Rip it Up and ...
-Book Price: Â£35.02
-In Stock: Instock
-Book Page: ../../rip-it-up-and-start-again_986/index.html

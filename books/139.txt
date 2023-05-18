@@ -1,4 +1,0 @@
-Book Title: The Stranger
-Book Price: Â£17.44
-In Stock: Instock
-Book Page: ../../the-stranger_861/index.html

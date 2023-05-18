@@ -1,4 +1,0 @@
-Book Title: A Year in Provence ...
-Book Price: Â£56.88
-In Stock: Instock
-Book Page: ../../a-year-in-provence-provence-1_421/index.html

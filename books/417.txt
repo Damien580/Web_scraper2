@@ -1,4 +1,0 @@
-Book Title: 11/22/63
-Book Price: Â£48.48
-In Stock: Instock
-Book Page: ../../112263_583/index.html

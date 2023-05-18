@@ -1,4 +1,0 @@
-Book Title: Shtum
-Book Price: Â£55.84
-In Stock: Instock
-Book Page: ../../shtum_733/index.html

@@ -1,4 +1,0 @@
-Book Title: The Restaurant at the ...
-Book Price: Â£10.92
-In Stock: Instock
-Book Page: ../../the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html

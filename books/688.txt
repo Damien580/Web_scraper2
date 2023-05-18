@@ -1,4 +1,0 @@
-Book Title: A Walk to Remember
-Book Price: Â£56.43
-In Stock: Instock
-Book Page: ../../a-walk-to-remember_312/index.html

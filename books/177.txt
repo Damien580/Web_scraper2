@@ -1,4 +1,0 @@
-Book Title: Nightingale, Sing
-Book Price: Â£38.28
-In Stock: Instock
-Book Page: ../../nightingale-sing_823/index.html

@@ -1,4 +1,0 @@
-Book Title: Boy Meets Boy
-Book Price: Â£21.12
-In Stock: Instock
-Book Page: ../../boy-meets-boy_134/index.html

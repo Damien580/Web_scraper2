@@ -1,4 +1,0 @@
-Book Title: House of Leaves
-Book Price: Â£54.89
-In Stock: Instock
-Book Page: ../../house-of-leaves_169/index.html

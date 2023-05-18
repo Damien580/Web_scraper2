@@ -1,4 +1,0 @@
-Book Title: Chronicles, Vol. 1
-Book Price: Â£52.60
-In Stock: Instock
-Book Page: ../../chronicles-vol-1_462/index.html

@@ -1,4 +1,0 @@
-Book Title: The Metamorphosis
-Book Price: Â£28.58
-In Stock: Instock
-Book Page: ../../the-metamorphosis_409/index.html

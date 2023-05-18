@@ -1,4 +1,0 @@
-Book Title: When I'm Gone
-Book Price: Â£51.96
-In Stock: Instock
-Book Page: ../../when-im-gone_95/index.html

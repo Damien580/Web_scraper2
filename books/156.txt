@@ -1,4 +1,0 @@
-Book Title: The Girl on the ...
-Book Price: Â£55.02
-In Stock: Instock
-Book Page: ../../the-girl-on-the-train_844/index.html

@@ -1,4 +1,0 @@
-Book Title: Sister Dear
-Book Price: Â£40.20
-In Stock: Instock
-Book Page: ../../sister-dear_485/index.html

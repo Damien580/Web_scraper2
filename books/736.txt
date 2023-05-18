@@ -1,4 +1,0 @@
-Book Title: The Name of God ...
-Book Price: Â£37.25
-In Stock: Instock
-Book Page: ../../the-name-of-god-is-mercy_264/index.html

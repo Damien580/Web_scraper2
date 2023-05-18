@@ -1,4 +1,0 @@
-Book Title: Lord of the Flies
-Book Price: Â£24.89
-In Stock: Instock
-Book Page: ../../lord-of-the-flies_30/index.html

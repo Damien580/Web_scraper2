@@ -1,4 +1,0 @@
-Book Title: Gratitude
-Book Price: Â£26.66
-In Stock: Instock
-Book Page: ../../gratitude_163/index.html

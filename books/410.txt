@@ -1,4 +1,0 @@
-Book Title: Daredevils
-Book Price: Â£16.34
-In Stock: Instock
-Book Page: ../../daredevils_590/index.html

@@ -1,4 +1,0 @@
-Book Title: The Sound Of Love
-Book Price: Â£57.84
-In Stock: Instock
-Book Page: ../../the-sound-of-love_455/index.html

@@ -1,4 +1,0 @@
-Book Title: Patience
-Book Price: Â£10.16
-In Stock: Instock
-Book Page: ../../patience_916/index.html

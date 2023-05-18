@@ -1,4 +1,0 @@
-Book Title: The Argonauts
-Book Price: Â£10.93
-In Stock: Instock
-Book Page: ../../the-argonauts_837/index.html

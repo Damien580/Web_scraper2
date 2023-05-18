@@ -1,4 +1,0 @@
-Book Title: A Visit from the ...
-Book Price: Â£14.08
-In Stock: Instock
-Book Page: ../../a-visit-from-the-goon-squad_117/index.html

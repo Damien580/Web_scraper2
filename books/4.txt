@@ -1,4 +1,0 @@
-Book Title: Sapiens: A Brief History ...
-Book Price: Â£54.23
-In Stock: Instock
-Book Page: ../../sapiens-a-brief-history-of-humankind_996/index.html

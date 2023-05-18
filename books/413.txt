@@ -1,4 +1,0 @@
-Book Title: Arena
-Book Price: Â£21.36
-In Stock: Instock
-Book Page: ../../arena_587/index.html

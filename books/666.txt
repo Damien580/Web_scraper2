@@ -1,4 +1,0 @@
-Book Title: Needful Things
-Book Price: Â£47.51
-In Stock: Instock
-Book Page: ../../needful-things_334/index.html

@@ -1,4 +1,0 @@
-Book Title: Counting Thyme
-Book Price: Â£10.62
-In Stock: Instock
-Book Page: ../../counting-thyme_142/index.html

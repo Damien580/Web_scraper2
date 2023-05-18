@@ -1,4 +1,0 @@
-Book Title: Aladdin and His Wonderful ...
-Book Price: Â£53.13
-In Stock: Instock
-Book Page: ../../aladdin-and-his-wonderful-lamp_973/index.html

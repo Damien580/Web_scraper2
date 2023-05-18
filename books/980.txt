@@ -1,4 +1,0 @@
-Book Title: Frankenstein
-Book Price: Â£38.00
-In Stock: Instock
-Book Page: ../../frankenstein_20/index.html

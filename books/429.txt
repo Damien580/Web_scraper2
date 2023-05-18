@@ -1,4 +1,0 @@
-Book Title: The Book of Mormon
-Book Price: Â£24.57
-In Stock: Instock
-Book Page: ../../the-book-of-mormon_571/index.html

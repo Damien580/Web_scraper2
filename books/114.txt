@@ -1,4 +1,0 @@
-Book Title: Camp Midnight
-Book Price: Â£17.08
-In Stock: Instock
-Book Page: ../../camp-midnight_886/index.html

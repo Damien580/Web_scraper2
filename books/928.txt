@@ -1,4 +1,0 @@
-Book Title: The Little Prince
-Book Price: Â£45.42
-In Stock: Instock
-Book Page: ../../the-little-prince_72/index.html

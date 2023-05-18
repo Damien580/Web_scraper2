@@ -1,4 +1,0 @@
-Book Title: Of Mice and Men
-Book Price: Â£47.11
-In Stock: Instock
-Book Page: ../../of-mice-and-men_37/index.html

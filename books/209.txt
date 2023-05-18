@@ -1,4 +1,0 @@
-Book Title: Ayumi's Violin
-Book Price: Â£15.48
-In Stock: Instock
-Book Page: ../../ayumis-violin_791/index.html

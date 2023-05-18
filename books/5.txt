@@ -1,4 +1,0 @@
-Book Title: The Requiem Red
-Book Price: Â£22.65
-In Stock: Instock
-Book Page: ../../the-requiem-red_995/index.html

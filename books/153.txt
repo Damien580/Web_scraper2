@@ -1,4 +1,0 @@
-Book Title: The Kite Runner
-Book Price: Â£41.82
-In Stock: Instock
-Book Page: ../../the-kite-runner_847/index.html

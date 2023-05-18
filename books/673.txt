@@ -1,4 +1,0 @@
-Book Title: Harry Potter and the ...
-Book Price: Â£31.63
-In Stock: Instock
-Book Page: ../../harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html

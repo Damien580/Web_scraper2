@@ -1,4 +1,0 @@
-Book Title: A Flight of Arrows ...
-Book Price: Â£55.53
-In Stock: Instock
-Book Page: ../../a-flight-of-arrows-the-pathfinders-2_876/index.html

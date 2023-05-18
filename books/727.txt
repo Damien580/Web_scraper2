@@ -1,4 +1,0 @@
-Book Title: The Red Tent
-Book Price: Â£35.66
-In Stock: Instock
-Book Page: ../../the-red-tent_273/index.html

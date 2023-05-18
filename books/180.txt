@@ -1,4 +1,0 @@
-Book Title: Modern Romance
-Book Price: Â£28.26
-In Stock: Instock
-Book Page: ../../modern-romance_820/index.html

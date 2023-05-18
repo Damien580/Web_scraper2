@@ -1,4 +1,0 @@
-Book Title: Unicorn Tracks
-Book Price: Â£18.78
-In Stock: Instock
-Book Page: ../../unicorn-tracks_951/index.html

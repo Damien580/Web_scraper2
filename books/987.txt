@@ -1,4 +1,0 @@
-Book Title: Charlie and the Chocolate ...
-Book Price: Â£22.85
-In Stock: Instock
-Book Page: ../../charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html

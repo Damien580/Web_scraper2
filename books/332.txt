@@ -1,4 +1,0 @@
-Book Title: Batman: Europa
-Book Price: Â£32.01
-In Stock: Instock
-Book Page: ../../batman-europa_668/index.html

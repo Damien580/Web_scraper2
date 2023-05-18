@@ -1,4 +1,0 @@
-Book Title: #GIRLBOSS
-Book Price: Â£50.96
-In Stock: Instock
-Book Page: ../../girlboss_113/index.html

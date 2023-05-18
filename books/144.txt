@@ -1,4 +1,0 @@
-Book Title: The Project
-Book Price: Â£10.65
-In Stock: Instock
-Book Page: ../../the-project_856/index.html

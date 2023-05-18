@@ -1,4 +1,0 @@
-Book Title: Join
-Book Price: Â£35.67
-In Stock: Instock
-Book Page: ../../join_902/index.html

@@ -1,4 +1,0 @@
-Book Title: Deception Point
-Book Price: Â£40.32
-In Stock: Instock
-Book Page: ../../deception-point_426/index.html

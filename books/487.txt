@@ -1,4 +1,0 @@
-Book Title: Between the World and ...
-Book Price: Â£56.91
-In Stock: Instock
-Book Page: ../../between-the-world-and-me_513/index.html

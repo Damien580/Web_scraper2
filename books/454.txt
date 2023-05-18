@@ -1,4 +1,0 @@
-Book Title: The Grownup
-Book Price: Â£35.88
-In Stock: Instock
-Book Page: ../../the-grownup_546/index.html

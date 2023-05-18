@@ -1,4 +1,0 @@
-Book Title: Horrible Bear!
-Book Price: Â£37.52
-In Stock: Instock
-Book Page: ../../horrible-bear_168/index.html

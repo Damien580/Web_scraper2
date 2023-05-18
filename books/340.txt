@@ -1,4 +1,0 @@
-Book Title: All the Light We ...
-Book Price: Â£29.87
-In Stock: Instock
-Book Page: ../../all-the-light-we-cannot-see_660/index.html

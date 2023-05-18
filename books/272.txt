@@ -1,4 +1,0 @@
-Book Title: Rain Fish
-Book Price: Â£23.57
-In Stock: Instock
-Book Page: ../../rain-fish_728/index.html

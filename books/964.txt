@@ -1,4 +1,0 @@
-Book Title: Myriad (Prentor #1)
-Book Price: Â£58.75
-In Stock: Instock
-Book Page: ../../myriad-prentor-1_36/index.html

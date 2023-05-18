@@ -1,4 +1,0 @@
-Book Title: Art Ops Vol. 1
-Book Price: Â£48.80
-In Stock: Instock
-Book Page: ../../art-ops-vol-1_664/index.html

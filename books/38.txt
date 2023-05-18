@@ -1,4 +1,0 @@
-Book Title: Behind Closed Doors
-Book Price: Â£52.22
-In Stock: Instock
-Book Page: ../../behind-closed-doors_962/index.html

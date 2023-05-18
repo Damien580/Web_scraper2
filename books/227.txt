@@ -1,4 +1,0 @@
-Book Title: Twenty Yawns
-Book Price: Â£22.08
-In Stock: Instock
-Book Page: ../../twenty-yawns_773/index.html

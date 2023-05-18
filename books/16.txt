@@ -1,4 +1,0 @@
-Book Title: Olio
-Book Price: Â£23.88
-In Stock: Instock
-Book Page: ../../olio_984/index.html

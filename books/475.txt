@@ -1,4 +1,0 @@
-Book Title: I'll Give You the ...
-Book Price: Â£56.48
-In Stock: Instock
-Book Page: ../../ill-give-you-the-sun_525/index.html

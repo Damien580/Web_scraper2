@@ -1,4 +1,0 @@
-Book Title: Lab Girl
-Book Price: Â£40.85
-In Stock: Instock
-Book Page: ../../lab-girl_595/index.html

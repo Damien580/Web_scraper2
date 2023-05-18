@@ -1,4 +1,0 @@
-Book Title: Harry Potter and the ...
-Book Price: Â£48.75
-In Stock: Instock
-Book Page: ../../harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html

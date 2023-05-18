@@ -1,4 +1,0 @@
-Book Title: Annie on My Mind
-Book Price: Â£36.83
-In Stock: Instock
-Book Page: ../../annie-on-my-mind_120/index.html

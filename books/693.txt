@@ -1,4 +1,0 @@
-Book Title: Wuthering Heights
-Book Price: Â£17.73
-In Stock: Instock
-Book Page: ../../wuthering-heights_307/index.html

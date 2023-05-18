@@ -1,4 +1,0 @@
-Book Title: Into the Wild
-Book Price: Â£56.70
-In Stock: Instock
-Book Page: ../../into-the-wild_177/index.html

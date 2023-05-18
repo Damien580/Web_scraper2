@@ -1,4 +1,0 @@
-Book Title: Cell
-Book Price: Â£20.29
-In Stock: Instock
-Book Page: ../../cell_674/index.html

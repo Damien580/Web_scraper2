@@ -1,4 +1,0 @@
-Book Title: Fellside
-Book Price: Â£38.62
-In Stock: Instock
-Book Page: ../../fellside_155/index.html

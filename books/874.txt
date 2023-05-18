@@ -1,4 +1,0 @@
-Book Title: Beowulf
-Book Price: Â£38.35
-In Stock: Instock
-Book Page: ../../beowulf_126/index.html

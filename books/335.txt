@@ -1,4 +1,0 @@
-Book Title: Balloon Animals
-Book Price: Â£17.03
-In Stock: Instock
-Book Page: ../../balloon-animals_665/index.html

@@ -1,4 +1,0 @@
-Book Title: The Art and Science ...
-Book Price: Â£52.98
-In Stock: Instock
-Book Page: ../../the-art-and-science-of-low-carbohydrate-living_570/index.html

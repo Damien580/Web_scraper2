@@ -1,4 +1,0 @@
-Book Title: The Secret Garden
-Book Price: Â£15.08
-In Stock: Instock
-Book Page: ../../the-secret-garden_413/index.html

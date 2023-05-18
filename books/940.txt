@@ -1,4 +1,0 @@
-Book Title: The Bhagavad Gita
-Book Price: Â£57.49
-In Stock: Instock
-Book Page: ../../the-bhagavad-gita_60/index.html

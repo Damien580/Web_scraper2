@@ -1,4 +1,0 @@
-Book Title: Kitchens of the Great ...
-Book Price: Â£57.20
-In Stock: Instock
-Book Page: ../../kitchens-of-the-great-midwest_28/index.html

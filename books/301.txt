@@ -1,4 +1,0 @@
-Book Title: Hamilton: The Revolution
-Book Price: Â£58.79
-In Stock: Instock
-Book Page: ../../hamilton-the-revolution_699/index.html

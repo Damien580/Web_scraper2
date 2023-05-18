@@ -1,4 +1,0 @@
-Book Title: Dracula the Un-Dead
-Book Price: Â£35.63
-In Stock: Instock
-Book Page: ../../dracula-the-un-dead_370/index.html

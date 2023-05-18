@@ -1,4 +1,0 @@
-Book Title: The Wild Robot
-Book Price: Â£56.07
-In Stock: Instock
-Book Page: ../../the-wild-robot_288/index.html

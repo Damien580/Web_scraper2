@@ -1,4 +1,0 @@
-Book Title: Starlark
-Book Price: Â£25.83
-In Stock: Instock
-Book Page: ../../starlark_56/index.html

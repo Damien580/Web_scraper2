@@ -1,4 +1,0 @@
-Book Title: Matilda
-Book Price: Â£28.34
-In Stock: Instock
-Book Page: ../../matilda_32/index.html

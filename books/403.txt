@@ -1,4 +1,0 @@
-Book Title: Lilac Girls
-Book Price: Â£17.28
-In Stock: Instock
-Book Page: ../../lilac-girls_597/index.html

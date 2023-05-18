@@ -1,4 +1,0 @@
-Book Title: The Complete Poems
-Book Price: Â£41.32
-In Stock: Instock
-Book Page: ../../the-complete-poems_237/index.html

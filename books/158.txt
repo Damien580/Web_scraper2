@@ -1,4 +1,0 @@
-Book Title: The Emerald Mystery
-Book Price: Â£23.15
-In Stock: Instock
-Book Page: ../../the-emerald-mystery_842/index.html

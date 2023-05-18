@@ -1,4 +1,0 @@
-Book Title: Soul Reader
-Book Price: Â£39.58
-In Stock: Instock
-Book Page: ../../soul-reader_926/index.html

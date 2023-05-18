@@ -1,4 +1,0 @@
-Book Title: A Paris Apartment
-Book Price: Â£39.01
-In Stock: Instock
-Book Page: ../../a-paris-apartment_612/index.html

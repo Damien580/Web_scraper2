@@ -1,4 +1,0 @@
-Book Title: Once Was a Time
-Book Price: Â£18.28
-In Stock: Instock
-Book Page: ../../once-was-a-time_724/index.html

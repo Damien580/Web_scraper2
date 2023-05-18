@@ -1,4 +1,0 @@
-Book Title: The Silent Wife
-Book Price: Â£12.34
-In Stock: Instock
-Book Page: ../../the-silent-wife_83/index.html

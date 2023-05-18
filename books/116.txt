@@ -1,4 +1,0 @@
-Book Title: Burning
-Book Price: Â£28.81
-In Stock: Instock
-Book Page: ../../burning_884/index.html

@@ -1,4 +1,0 @@
-Book Title: Green Eggs and Ham ...
-Book Price: Â£10.79
-In Stock: Instock
-Book Page: ../../green-eggs-and-ham-beginner-books-b-16_165/index.html

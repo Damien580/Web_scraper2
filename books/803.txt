@@ -1,4 +1,0 @@
-Book Title: Naked
-Book Price: Â£31.69
-In Stock: Instock
-Book Page: ../../naked_197/index.html

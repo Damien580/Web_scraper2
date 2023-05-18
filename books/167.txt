@@ -1,4 +1,0 @@
-Book Title: Soft Apocalypse
-Book Price: Â£26.12
-In Stock: Instock
-Book Page: ../../soft-apocalypse_833/index.html

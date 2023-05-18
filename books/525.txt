@@ -1,4 +1,0 @@
-Book Title: Life of Pi
-Book Price: Â£13.22
-In Stock: Instock
-Book Page: ../../life-of-pi_475/index.html

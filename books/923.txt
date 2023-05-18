@@ -1,4 +1,0 @@
-Book Title: The Odyssey
-Book Price: Â£29.64
-In Stock: Instock
-Book Page: ../../the-odyssey_77/index.html

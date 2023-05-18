@@ -1,4 +1,0 @@
-Book Title: Are We There Yet?
-Book Price: Â£10.66
-In Stock: Instock
-Book Page: ../../are-we-there-yet_122/index.html

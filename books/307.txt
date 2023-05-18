@@ -1,4 +1,0 @@
-Book Title: Every Last Word
-Book Price: Â£46.47
-In Stock: Instock
-Book Page: ../../every-last-word_693/index.html

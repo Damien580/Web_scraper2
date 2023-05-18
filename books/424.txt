@@ -1,4 +1,0 @@
-Book Title: The Shack
-Book Price: Â£28.03
-In Stock: Instock
-Book Page: ../../the-shack_576/index.html

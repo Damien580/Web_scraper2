@@ -1,4 +1,0 @@
-Book Title: The Stand
-Book Price: Â£57.86
-In Stock: Instock
-Book Page: ../../the-stand_282/index.html

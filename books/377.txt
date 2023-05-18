@@ -1,4 +1,0 @@
-Book Title: Most Wanted
-Book Price: Â£35.28
-In Stock: Instock
-Book Page: ../../most-wanted_623/index.html

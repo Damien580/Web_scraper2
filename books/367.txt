@@ -1,4 +1,0 @@
-Book Title: The Children
-Book Price: Â£11.88
-In Stock: Instock
-Book Page: ../../the-children_633/index.html

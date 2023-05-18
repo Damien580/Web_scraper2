@@ -1,4 +1,0 @@
-Book Title: The Story of Art
-Book Price: Â£41.14
-In Stock: Instock
-Book Page: ../../the-story-of-art_500/index.html

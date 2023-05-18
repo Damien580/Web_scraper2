@@ -1,4 +1,0 @@
-Book Title: Shakespeare's Sonnets
-Book Price: Â£20.66
-In Stock: Instock
-Book Page: ../../shakespeares-sonnets_989/index.html

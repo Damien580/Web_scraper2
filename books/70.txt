@@ -1,4 +1,0 @@
-Book Title: The Art Forger
-Book Price: Â£40.76
-In Stock: Instock
-Book Page: ../../the-art-forger_930/index.html

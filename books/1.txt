@@ -1,4 +1,0 @@
-Book Title: Tipping the Velvet
-Book Price: Â£53.74
-In Stock: Instock
-Book Page: ../../tipping-the-velvet_999/index.html

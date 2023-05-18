@@ -1,4 +1,0 @@
-Book Title: Rich Dad, Poor Dad
-Book Price: Â£51.74
-In Stock: Instock
-Book Page: ../../rich-dad-poor-dad_483/index.html

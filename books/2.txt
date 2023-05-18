@@ -1,4 +1,0 @@
-Book Title: Soumission
-Book Price: Â£50.10
-In Stock: Instock
-Book Page: ../../soumission_998/index.html

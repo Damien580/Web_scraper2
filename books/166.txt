@@ -1,4 +1,0 @@
-Book Title: Something More Than This
-Book Price: Â£16.24
-In Stock: Instock
-Book Page: ../../something-more-than-this_834/index.html

@@ -1,4 +1,0 @@
-Book Title: Don't Get Caught
-Book Price: Â£55.35
-In Stock: Instock
-Book Page: ../../dont-get-caught_687/index.html

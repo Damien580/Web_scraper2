@@ -1,4 +1,0 @@
-Book Title: salt.
-Book Price: Â£46.78
-In Stock: Instock
-Book Page: ../../salt_731/index.html

@@ -1,4 +1,0 @@
-Book Title: The Black Maria
-Book Price: Â£52.15
-In Stock: Instock
-Book Page: ../../the-black-maria_991/index.html

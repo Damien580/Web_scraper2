@@ -1,4 +1,0 @@
-Book Title: Sharp Objects
-Book Price: Â£47.82
-In Stock: Instock
-Book Page: ../../sharp-objects_997/index.html

@@ -1,4 +1,0 @@
-Book Title: This Is Where It ...
-Book Price: Â£27.12
-In Stock: Instock
-Book Page: ../../this-is-where-it-ends_771/index.html

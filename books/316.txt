@@ -1,4 +1,0 @@
-Book Title: Dear Mr. Knightley
-Book Price: Â£11.21
-In Stock: Instock
-Book Page: ../../dear-mr-knightley_684/index.html

@@ -1,4 +1,0 @@
-Book Title: Imperfect Harmony
-Book Price: Â£34.74
-In Stock: Instock
-Book Page: ../../imperfect-harmony_26/index.html

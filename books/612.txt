@@ -1,4 +1,0 @@
-Book Title: My Mother Was Nuts
-Book Price: Â£31.63
-In Stock: Instock
-Book Page: ../../my-mother-was-nuts_388/index.html

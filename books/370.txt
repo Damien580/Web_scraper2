@@ -1,4 +1,0 @@
-Book Title: Raspberry Pi Electronics Projects ...
-Book Price: Â£49.67
-In Stock: Instock
-Book Page: ../../raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html

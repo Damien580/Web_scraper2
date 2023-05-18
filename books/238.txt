@@ -1,4 +1,0 @@
-Book Title: The Song of Achilles
-Book Price: Â£37.40
-In Stock: Instock
-Book Page: ../../the-song-of-achilles_762/index.html

@@ -1,4 +1,0 @@
-Book Title: The Last Painting of ...
-Book Price: Â£55.55
-In Stock: Instock
-Book Page: ../../the-last-painting-of-sara-de-vos_259/index.html

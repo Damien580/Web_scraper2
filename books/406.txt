@@ -1,4 +1,0 @@
-Book Title: Keep Me Posted
-Book Price: Â£20.46
-In Stock: Instock
-Book Page: ../../keep-me-posted_594/index.html

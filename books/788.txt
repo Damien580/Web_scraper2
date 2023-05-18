@@ -1,4 +1,0 @@
-Book Title: Rework
-Book Price: Â£44.88
-In Stock: Instock
-Book Page: ../../rework_212/index.html

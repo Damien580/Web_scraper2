@@ -1,4 +1,0 @@
-Book Title: Eleanor & Park
-Book Price: Â£56.51
-In Stock: Instock
-Book Page: ../../eleanor-park_616/index.html

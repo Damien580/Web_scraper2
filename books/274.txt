@@ -1,4 +1,0 @@
-Book Title: Pet Sematary
-Book Price: Â£10.56
-In Stock: Instock
-Book Page: ../../pet-sematary_726/index.html

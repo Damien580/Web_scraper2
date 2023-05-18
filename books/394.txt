@@ -1,4 +1,0 @@
-Book Title: The Art of Startup ...
-Book Price: Â£21.00
-In Stock: Instock
-Book Page: ../../the-art-of-startup-fundraising_606/index.html

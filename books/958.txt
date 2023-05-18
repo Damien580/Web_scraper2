@@ -1,4 +1,0 @@
-Book Title: Origins (Alphas 0.5)
-Book Price: Â£28.99
-In Stock: Instock
-Book Page: ../../origins-alphas-05_42/index.html

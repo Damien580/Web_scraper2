@@ -1,4 +1,0 @@
-Book Title: The Name of the ...
-Book Price: Â£50.59
-In Stock: Instock
-Book Page: ../../the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html

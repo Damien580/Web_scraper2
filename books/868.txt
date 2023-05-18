@@ -1,4 +1,0 @@
-Book Title: Blink: The Power of ...
-Book Price: Â£21.74
-In Stock: Instock
-Book Page: ../../blink-the-power-of-thinking-without-thinking_132/index.html

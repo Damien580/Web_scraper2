@@ -1,4 +1,0 @@
-Book Title: In Cold Blood
-Book Price: Â£49.98
-In Stock: Instock
-Book Page: ../../in-cold-blood_432/index.html

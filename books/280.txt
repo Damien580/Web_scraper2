@@ -1,4 +1,0 @@
-Book Title: My Name Is Lucy ...
-Book Price: Â£41.56
-In Stock: Instock
-Book Page: ../../my-name-is-lucy-barton_720/index.html

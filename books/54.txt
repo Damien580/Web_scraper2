@@ -1,4 +1,0 @@
-Book Title: Thirst
-Book Price: Â£17.27
-In Stock: Instock
-Book Page: ../../thirst_946/index.html

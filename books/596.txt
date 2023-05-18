@@ -1,4 +1,0 @@
-Book Title: The Firm
-Book Price: Â£45.56
-In Stock: Instock
-Book Page: ../../the-firm_404/index.html

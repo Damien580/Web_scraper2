@@ -1,4 +1,0 @@
-Book Title: Lost Among the Living
-Book Price: Â£27.70
-In Stock: Instock
-Book Page: ../../lost-among-the-living_31/index.html

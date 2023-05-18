@@ -1,4 +1,0 @@
-Book Title: Remember Me?
-Book Price: Â£11.48
-In Stock: Instock
-Book Page: ../../remember-me_391/index.html

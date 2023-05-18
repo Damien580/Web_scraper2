@@ -1,4 +1,0 @@
-Book Title: Harry Potter and the ...
-Book Price: Â£13.90
-In Stock: Instock
-Book Page: ../../harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html

@@ -1,4 +1,0 @@
-Book Title: Emma
-Book Price: Â£32.93
-In Stock: Instock
-Book Page: ../../emma_17/index.html

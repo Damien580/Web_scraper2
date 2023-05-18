@@ -1,4 +1,0 @@
-Book Title: The Bear and the ...
-Book Price: Â£36.89
-In Stock: Instock
-Book Page: ../../the-bear-and-the-piano_967/index.html

@@ -1,4 +1,0 @@
-Book Title: Hystopia: A Novel
-Book Price: Â£21.96
-In Stock: Instock
-Book Page: ../../hystopia-a-novel_523/index.html

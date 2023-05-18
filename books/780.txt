@@ -1,4 +1,0 @@
-Book Title: Seven Days in the ...
-Book Price: Â£52.33
-In Stock: Instock
-Book Page: ../../seven-days-in-the-art-world_220/index.html

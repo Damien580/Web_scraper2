@@ -1,4 +1,0 @@
-Book Title: Ready Player One
-Book Price: Â£19.07
-In Stock: Instock
-Book Page: ../../ready-player-one_209/index.html

@@ -1,4 +1,0 @@
-Book Title: It
-Book Price: Â£25.01
-In Stock: Instock
-Book Page: ../../it_330/index.html

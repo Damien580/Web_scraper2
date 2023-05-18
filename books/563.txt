@@ -1,4 +1,0 @@
-Book Title: Pride and Prejudice
-Book Price: Â£19.27
-In Stock: Instock
-Book Page: ../../pride-and-prejudice_437/index.html

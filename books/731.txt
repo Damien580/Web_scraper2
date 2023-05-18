@@ -1,4 +1,0 @@
-Book Title: The Paris Wife
-Book Price: Â£36.80
-In Stock: Instock
-Book Page: ../../the-paris-wife_269/index.html

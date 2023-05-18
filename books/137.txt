@@ -1,4 +1,0 @@
-Book Title: The Vacationers
-Book Price: Â£42.15
-In Stock: Instock
-Book Page: ../../the-vacationers_863/index.html

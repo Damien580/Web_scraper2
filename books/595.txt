@@ -1,4 +1,0 @@
-Book Title: The Grand Design
-Book Price: Â£13.76
-In Stock: Instock
-Book Page: ../../the-grand-design_405/index.html

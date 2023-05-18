@@ -1,4 +1,0 @@
-Book Title: My Kind of Crazy
-Book Price: Â£40.36
-In Stock: Instock
-Book Page: ../../my-kind-of-crazy_718/index.html

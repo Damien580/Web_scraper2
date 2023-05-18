@@ -1,4 +1,0 @@
-Book Title: The Widow
-Book Price: Â£27.26
-In Stock: Instock
-Book Page: ../../the-widow_609/index.html

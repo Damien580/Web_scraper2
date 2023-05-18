@@ -1,4 +1,0 @@
-Book Title: Grumbles
-Book Price: Â£22.16
-In Stock: Instock
-Book Page: ../../grumbles_812/index.html

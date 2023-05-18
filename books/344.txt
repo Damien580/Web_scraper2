@@ -1,4 +1,0 @@
-Book Title: A Study in Scarlet ...
-Book Price: Â£16.73
-In Stock: Instock
-Book Page: ../../a-study-in-scarlet-sherlock-holmes-1_656/index.html

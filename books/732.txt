@@ -1,4 +1,0 @@
-Book Title: The Obsession
-Book Price: Â£45.43
-In Stock: Instock
-Book Page: ../../the-obsession_268/index.html

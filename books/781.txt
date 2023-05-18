@@ -1,4 +1,0 @@
-Book Title: Seven Brief Lessons on ...
-Book Price: Â£30.60
-In Stock: Instock
-Book Page: ../../seven-brief-lessons-on-physics_219/index.html

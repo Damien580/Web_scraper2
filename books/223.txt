@@ -1,4 +1,0 @@
-Book Title: Walt Disney's Alice in ...
-Book Price: Â£12.96
-In Stock: Instock
-Book Page: ../../walt-disneys-alice-in-wonderland_777/index.html

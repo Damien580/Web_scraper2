@@ -1,4 +1,0 @@
-Book Title: The Little Paris Bookshop
-Book Price: Â£24.73
-In Stock: Instock
-Book Page: ../../the-little-paris-bookshop_407/index.html

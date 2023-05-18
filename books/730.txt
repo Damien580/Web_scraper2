@@ -1,4 +1,0 @@
-Book Title: The Picture of Dorian ...
-Book Price: Â£29.70
-In Stock: Instock
-Book Page: ../../the-picture-of-dorian-gray_270/index.html

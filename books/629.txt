@@ -1,4 +1,0 @@
-Book Title: Drama
-Book Price: Â£38.70
-In Stock: Instock
-Book Page: ../../drama_371/index.html

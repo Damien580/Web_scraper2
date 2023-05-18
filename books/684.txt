@@ -1,4 +1,0 @@
-Book Title: Candide
-Book Price: Â£58.63
-In Stock: Instock
-Book Page: ../../candide_316/index.html

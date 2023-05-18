@@ -1,4 +1,0 @@
-Book Title: Life
-Book Price: Â£31.58
-In Stock: Instock
-Book Page: ../../life_104/index.html

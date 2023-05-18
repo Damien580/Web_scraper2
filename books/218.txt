@@ -1,4 +1,0 @@
-Book Title: Wild Swans
-Book Price: Â£14.36
-In Stock: Instock
-Book Page: ../../wild-swans_782/index.html

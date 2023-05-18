@@ -1,4 +1,0 @@
-Book Title: The Wright Brothers
-Book Price: Â£56.80
-In Stock: Instock
-Book Page: ../../the-wright-brothers_769/index.html

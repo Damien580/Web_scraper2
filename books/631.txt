@@ -1,4 +1,0 @@
-Book Title: Digital Fortress
-Book Price: Â£58.00
-In Stock: Instock
-Book Page: ../../digital-fortress_369/index.html

@@ -1,4 +1,0 @@
-Book Title: The Wedding Dress
-Book Price: Â£24.12
-In Stock: Instock
-Book Page: ../../the-wedding-dress_864/index.html
