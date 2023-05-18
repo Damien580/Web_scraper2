@@ -1,0 +1,4 @@
+Book Title: Bright Lines
+Book Price: Â£39.07
+In Stock: Instock
+Book Page: ../../bright-lines_11/index.html

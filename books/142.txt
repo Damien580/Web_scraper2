@@ -1,0 +1,4 @@
+Book Title: The Regional Office Is ...
+Book Price: Â£51.36
+In Stock: Instock
+Book Page: ../../the-regional-office-is-under-attack_858/index.html

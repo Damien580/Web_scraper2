@@ -1,0 +1,4 @@
+Book Title: 32 Yolks
+Book Price: Â£53.63
+In Stock: Instock
+Book Page: ../../32-yolks_510/index.html

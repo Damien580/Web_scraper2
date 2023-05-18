@@ -1,0 +1,4 @@
+Book Title: Anonymous
+Book Price: Â£46.82
+In Stock: Instock
+Book Page: ../../anonymous_790/index.html

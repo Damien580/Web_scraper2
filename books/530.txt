@@ -1,0 +1,4 @@
+Book Title: How to Be a ...
+Book Price: Â£28.25
+In Stock: Instock
+Book Page: ../../how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html

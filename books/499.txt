@@ -1,0 +1,4 @@
+Book Title: The Whale
+Book Price: Â£35.96
+In Stock: Instock
+Book Page: ../../the-whale_501/index.html

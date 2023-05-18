@@ -1,0 +1,4 @@
+Book Title: South of Sunshine
+Book Price: Â£28.93
+In Stock: Instock
+Book Page: ../../south-of-sunshine_544/index.html

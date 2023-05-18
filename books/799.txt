@@ -1,0 +1,4 @@
+Book Title: One for the Money ...
+Book Price: Â£32.87
+In Stock: Instock
+Book Page: ../../one-for-the-money-stephanie-plum-1_201/index.html

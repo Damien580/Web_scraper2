@@ -1,0 +1,4 @@
+Book Title: The Communist Manifesto
+Book Price: Â£14.76
+In Stock: Instock
+Book Page: ../../the-communist-manifesto_61/index.html

@@ -1,0 +1,4 @@
+Book Title: The Passion of Dolssa
+Book Price: Â£28.32
+In Stock: Instock
+Book Page: ../../the-passion-of-dolssa_351/index.html

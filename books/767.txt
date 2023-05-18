@@ -1,0 +1,4 @@
+Book Title: The Book Thief
+Book Price: Â£53.49
+In Stock: Instock
+Book Page: ../../the-book-thief_233/index.html

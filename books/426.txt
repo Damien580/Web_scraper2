@@ -1,0 +1,4 @@
+Book Title: The Moosewood Cookbook: Recipes ...
+Book Price: Â£12.34
+In Stock: Instock
+Book Page: ../../the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html

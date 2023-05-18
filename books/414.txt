@@ -1,0 +1,4 @@
+Book Title: Adultery
+Book Price: Â£20.88
+In Stock: Instock
+Book Page: ../../adultery_586/index.html

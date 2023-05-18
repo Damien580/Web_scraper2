@@ -1,0 +1,4 @@
+Book Title: Gone with the Wind
+Book Price: Â£32.49
+In Stock: Instock
+Book Page: ../../gone-with-the-wind_324/index.html

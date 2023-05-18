@@ -1,0 +1,4 @@
+Book Title: The Thing About Jellyfish
+Book Price: Â£48.77
+In Stock: Instock
+Book Page: ../../the-thing-about-jellyfish_283/index.html

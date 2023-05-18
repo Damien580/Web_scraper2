@@ -1,0 +1,4 @@
+Book Title: The Rise of Theodore ...
+Book Price: Â£42.57
+In Stock: Instock
+Book Page: ../../the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html

@@ -1,0 +1,4 @@
+Book Title: Without Shame
+Book Price: Â£48.27
+In Stock: Instock
+Book Page: ../../without-shame_580/index.html

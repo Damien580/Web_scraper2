@@ -1,0 +1,4 @@
+Book Title: The Great Gatsby
+Book Price: Â£36.05
+In Stock: Instock
+Book Page: ../../the-great-gatsby_498/index.html

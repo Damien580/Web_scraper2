@@ -1,0 +1,4 @@
+Book Title: The God Delusion
+Book Price: Â£46.85
+In Stock: Instock
+Book Page: ../../the-god-delusion_444/index.html

@@ -1,0 +1,4 @@
+Book Title: Cosmos
+Book Price: Â£36.17
+In Stock: Instock
+Book Page: ../../cosmos_141/index.html

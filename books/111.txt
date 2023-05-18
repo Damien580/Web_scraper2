@@ -1,0 +1,4 @@
+Book Title: Danganronpa Volume 1
+Book Price: Â£51.99
+In Stock: Instock
+Book Page: ../../danganronpa-volume-1_889/index.html

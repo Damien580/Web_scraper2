@@ -1,0 +1,4 @@
+Book Title: Between Shades of Gray
+Book Price: Â£20.79
+In Stock: Instock
+Book Page: ../../between-shades-of-gray_128/index.html

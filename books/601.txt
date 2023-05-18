@@ -1,0 +1,4 @@
+Book Title: The Darkest Corners
+Book Price: Â£11.33
+In Stock: Instock
+Book Page: ../../the-darkest-corners_399/index.html

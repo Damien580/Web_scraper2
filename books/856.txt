@@ -1,0 +1,4 @@
+Book Title: Dark Places
+Book Price: Â£23.90
+In Stock: Instock
+Book Page: ../../dark-places_144/index.html

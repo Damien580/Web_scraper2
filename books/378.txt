@@ -1,0 +1,4 @@
+Book Title: Love, Lies and Spies
+Book Price: Â£20.55
+In Stock: Instock
+Book Page: ../../love-lies-and-spies_622/index.html

@@ -1,0 +1,4 @@
+Book Title: The Drowning Girls
+Book Price: Â£35.67
+In Stock: Instock
+Book Page: ../../the-drowning-girls_494/index.html

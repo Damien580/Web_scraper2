@@ -1,0 +1,4 @@
+Book Title: Eat Fat, Get Thin
+Book Price: Â£54.07
+In Stock: Instock
+Book Page: ../../eat-fat-get-thin_688/index.html

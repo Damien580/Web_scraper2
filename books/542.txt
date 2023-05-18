@@ -1,0 +1,4 @@
+Book Title: A Summer In Europe
+Book Price: Â£44.34
+In Stock: Instock
+Book Page: ../../a-summer-in-europe_458/index.html

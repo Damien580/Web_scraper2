@@ -1,0 +1,4 @@
+Book Title: Dirty (Dive Bar #1)
+Book Price: Â£40.83
+In Stock: Instock
+Book Page: ../../dirty-dive-bar-1_615/index.html

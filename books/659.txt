@@ -1,0 +1,4 @@
+Book Title: Some Women
+Book Price: Â£13.73
+In Stock: Instock
+Book Page: ../../some-women_341/index.html

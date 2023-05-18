@@ -1,0 +1,4 @@
+Book Title: Nap-a-Roo
+Book Price: Â£25.08
+In Stock: Instock
+Book Page: ../../nap-a-roo_567/index.html

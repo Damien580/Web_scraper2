@@ -1,0 +1,4 @@
+Book Title: Watchmen
+Book Price: Â£58.05
+In Stock: Instock
+Book Page: ../../watchmen_579/index.html

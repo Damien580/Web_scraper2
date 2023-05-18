@@ -1,0 +1,4 @@
+Book Title: Playing with Fire
+Book Price: Â£13.71
+In Stock: Instock
+Book Page: ../../playing-with-fire_602/index.html

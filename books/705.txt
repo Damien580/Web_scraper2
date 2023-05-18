@@ -1,0 +1,4 @@
+Book Title: Under the Banner of ...
+Book Price: Â£30.00
+In Stock: Instock
+Book Page: ../../under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html

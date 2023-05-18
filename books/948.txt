@@ -1,0 +1,4 @@
+Book Title: Shameless
+Book Price: Â£58.35
+In Stock: Instock
+Book Page: ../../shameless_52/index.html

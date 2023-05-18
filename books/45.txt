@@ -1,0 +1,4 @@
+Book Title: When We Collided
+Book Price: Â£31.77
+In Stock: Instock
+Book Page: ../../when-we-collided_955/index.html

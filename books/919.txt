@@ -1,0 +1,4 @@
+Book Title: The Selfish Gene
+Book Price: Â£29.45
+In Stock: Instock
+Book Page: ../../the-selfish-gene_81/index.html

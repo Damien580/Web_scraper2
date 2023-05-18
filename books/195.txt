@@ -1,0 +1,4 @@
+Book Title: Eureka Trivia 6.0
+Book Price: Â£54.59
+In Stock: Instock
+Book Page: ../../eureka-trivia-60_805/index.html

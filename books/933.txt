@@ -1,0 +1,4 @@
+Book Title: The Haters
+Book Price: Â£27.89
+In Stock: Instock
+Book Page: ../../the-haters_67/index.html

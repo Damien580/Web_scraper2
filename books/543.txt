@@ -1,0 +1,4 @@
+Book Title: A Short History of ...
+Book Price: Â£52.40
+In Stock: Instock
+Book Page: ../../a-short-history-of-nearly-everything_457/index.html

@@ -1,0 +1,4 @@
+Book Title: Dracula
+Book Price: Â£52.62
+In Stock: Instock
+Book Page: ../../dracula_150/index.html

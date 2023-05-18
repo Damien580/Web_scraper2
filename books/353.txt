@@ -1,0 +1,4 @@
+Book Title: Rook
+Book Price: Â£37.86
+In Stock: Instock
+Book Page: ../../rook_647/index.html

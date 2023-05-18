@@ -1,0 +1,4 @@
+Book Title: Me Talk Pretty One ...
+Book Price: Â£57.60
+In Stock: Instock
+Book Page: ../../me-talk-pretty-one-day_193/index.html

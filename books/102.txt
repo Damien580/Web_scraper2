@@ -1,0 +1,4 @@
+Book Title: I am a Hero ...
+Book Price: Â£54.63
+In Stock: Instock
+Book Page: ../../i-am-a-hero-omnibus-volume-1_898/index.html

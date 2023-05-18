@@ -1,0 +1,4 @@
+Book Title: A Man Called Ove
+Book Price: Â£39.72
+In Stock: Instock
+Book Page: ../../a-man-called-ove_653/index.html

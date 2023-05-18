@@ -1,0 +1,4 @@
+Book Title: Legend (Legend #1)
+Book Price: Â£43.69
+In Stock: Instock
+Book Page: ../../legend-legend-1_184/index.html

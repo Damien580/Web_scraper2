@@ -1,0 +1,4 @@
+Book Title: The Light of the ...
+Book Price: Â£54.43
+In Stock: Instock
+Book Page: ../../the-light-of-the-fireflies_71/index.html

@@ -1,0 +1,4 @@
+Book Title: In Her Wake
+Book Price: Â£12.84
+In Stock: Instock
+Book Page: ../../in-her-wake_980/index.html

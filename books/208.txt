@@ -1,0 +1,4 @@
+Book Title: Batman: The Dark Knight ...
+Book Price: Â£15.38
+In Stock: Instock
+Book Page: ../../batman-the-dark-knight-returns-batman_792/index.html

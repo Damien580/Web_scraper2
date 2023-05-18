@@ -1,0 +1,4 @@
+Book Title: Atlas Shrugged
+Book Price: Â£26.58
+In Stock: Instock
+Book Page: ../../atlas-shrugged_314/index.html

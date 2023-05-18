@@ -1,0 +1,4 @@
+Book Title: Daily Fantasy Sports
+Book Price: Â£36.58
+In Stock: Instock
+Book Page: ../../daily-fantasy-sports_683/index.html

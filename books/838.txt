@@ -1,0 +1,4 @@
+Book Title: Gone Girl
+Book Price: Â£37.60
+In Stock: Instock
+Book Page: ../../gone-girl_162/index.html

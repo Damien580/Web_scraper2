@@ -1,0 +1,4 @@
+Book Title: Ash
+Book Price: Â£22.06
+In Stock: Instock
+Book Page: ../../ash_123/index.html

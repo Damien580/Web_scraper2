@@ -1,0 +1,4 @@
+Book Title: An Abundance of Katherines
+Book Price: Â£10.00
+In Stock: Instock
+Book Page: ../../an-abundance-of-katherines_362/index.html

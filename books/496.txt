@@ -1,0 +1,4 @@
+Book Title: Under the Tuscan Sun
+Book Price: Â£37.33
+In Stock: Instock
+Book Page: ../../under-the-tuscan-sun_504/index.html

@@ -1,0 +1,4 @@
+Book Title: The Goldfinch
+Book Price: Â£43.58
+In Stock: Instock
+Book Page: ../../the-goldfinch_252/index.html

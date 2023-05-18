@@ -1,0 +1,4 @@
+Book Title: We Love You, Charlie ...
+Book Price: Â£50.27
+In Stock: Instock
+Book Page: ../../we-love-you-charlie-freeman_954/index.html

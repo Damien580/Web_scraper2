@@ -1,0 +1,4 @@
+Book Title: The Republic
+Book Price: Â£33.78
+In Stock: Instock
+Book Page: ../../the-republic_78/index.html

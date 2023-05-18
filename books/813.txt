@@ -1,0 +1,4 @@
+Book Title: Life After Life
+Book Price: Â£26.13
+In Stock: Instock
+Book Page: ../../life-after-life_187/index.html

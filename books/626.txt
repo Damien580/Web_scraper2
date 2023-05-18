@@ -1,0 +1,4 @@
+Book Title: Fool Me Once
+Book Price: Â£16.96
+In Stock: Instock
+Book Page: ../../fool-me-once_374/index.html

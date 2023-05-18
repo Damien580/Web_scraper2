@@ -1,0 +1,4 @@
+Book Title: 'Salem's Lot
+Book Price: Â£49.56
+In Stock: Instock
+Book Page: ../../salems-lot_309/index.html

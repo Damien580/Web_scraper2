@@ -1,0 +1,4 @@
+Book Title: The Autobiography of Malcolm ...
+Book Price: Â£23.43
+In Stock: Instock
+Book Page: ../../the-autobiography-of-malcolm-x_230/index.html

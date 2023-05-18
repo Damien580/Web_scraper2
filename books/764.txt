@@ -1,0 +1,4 @@
+Book Title: The Catcher in the ...
+Book Price: Â£24.55
+In Stock: Instock
+Book Page: ../../the-catcher-in-the-rye_236/index.html

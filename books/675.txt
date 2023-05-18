@@ -1,0 +1,4 @@
+Book Title: Harry Potter and the ...
+Book Price: Â£14.74
+In Stock: Instock
+Book Page: ../../harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html

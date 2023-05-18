@@ -1,0 +1,4 @@
+Book Title: Girl With a Pearl ...
+Book Price: Â£26.77
+In Stock: Instock
+Book Page: ../../girl-with-a-pearl-earring_322/index.html

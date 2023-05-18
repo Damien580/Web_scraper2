@@ -1,0 +1,4 @@
+Book Title: The Infinities
+Book Price: Â£27.41
+In Stock: Instock
+Book Page: ../../the-infinities_257/index.html

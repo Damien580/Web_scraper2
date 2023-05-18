@@ -1,0 +1,4 @@
+Book Title: Brave Enough
+Book Price: Â£51.32
+In Stock: Instock
+Book Page: ../../brave-enough_135/index.html

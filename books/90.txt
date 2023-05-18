@@ -1,0 +1,4 @@
+Book Title: My Paris Kitchen: Recipes ...
+Book Price: Â£33.37
+In Stock: Instock
+Book Page: ../../my-paris-kitchen-recipes-and-stories_910/index.html

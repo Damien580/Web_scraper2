@@ -1,0 +1,4 @@
+Book Title: Two Summers
+Book Price: Â£14.64
+In Stock: Instock
+Book Page: ../../two-summers_415/index.html

@@ -1,0 +1,4 @@
+Book Title: Amid the Chaos
+Book Price: Â£36.58
+In Stock: Instock
+Book Page: ../../amid-the-chaos_788/index.html

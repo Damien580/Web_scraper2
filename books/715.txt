@@ -1,0 +1,4 @@
+Book Title: The Travelers
+Book Price: Â£15.77
+In Stock: Instock
+Book Page: ../../the-travelers_285/index.html

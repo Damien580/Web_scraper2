@@ -1,0 +1,4 @@
+Book Title: The Pilgrim's Progress
+Book Price: Â£50.26
+In Stock: Instock
+Book Page: ../../the-pilgrims-progress_353/index.html

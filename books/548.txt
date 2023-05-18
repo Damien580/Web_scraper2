@@ -1,0 +1,4 @@
+Book Title: The Mysterious Affair at ...
+Book Price: Â£24.80
+In Stock: Instock
+Book Page: ../../the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html

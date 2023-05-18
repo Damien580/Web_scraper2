@@ -1,0 +1,4 @@
+Book Title: John Adams
+Book Price: Â£57.43
+In Stock: Instock
+Book Page: ../../john-adams_472/index.html

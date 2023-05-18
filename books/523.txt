@@ -1,0 +1,4 @@
+Book Title: Memoirs of a Geisha
+Book Price: Â£49.67
+In Stock: Instock
+Book Page: ../../memoirs-of-a-geisha_477/index.html

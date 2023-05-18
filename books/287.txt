@@ -1,0 +1,4 @@
+Book Title: Luckiest Girl Alive
+Book Price: Â£49.83
+In Stock: Instock
+Book Page: ../../luckiest-girl-alive_713/index.html

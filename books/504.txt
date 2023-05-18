@@ -1,0 +1,4 @@
+Book Title: The Glass Castle
+Book Price: Â£16.24
+In Stock: Instock
+Book Page: ../../the-glass-castle_496/index.html

@@ -1,0 +1,4 @@
+Book Title: The Fault in Our ...
+Book Price: Â£47.22
+In Stock: Instock
+Book Page: ../../the-fault-in-our-stars_403/index.html

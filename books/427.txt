@@ -1,0 +1,4 @@
+Book Title: The Flowers Lied
+Book Price: Â£16.68
+In Stock: Instock
+Book Page: ../../the-flowers-lied_573/index.html

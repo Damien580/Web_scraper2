@@ -1,0 +1,4 @@
+Book Title: My Life Next Door ...
+Book Price: Â£36.39
+In Stock: Instock
+Book Page: ../../my-life-next-door-my-life-next-door_535/index.html

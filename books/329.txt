@@ -1,0 +1,4 @@
+Book Title: Carrie
+Book Price: Â£46.23
+In Stock: Instock
+Book Page: ../../carrie_671/index.html

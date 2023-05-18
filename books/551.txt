@@ -1,0 +1,4 @@
+Book Title: The Joy of Cooking
+Book Price: Â£43.27
+In Stock: Instock
+Book Page: ../../the-joy-of-cooking_449/index.html

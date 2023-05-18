@@ -1,0 +1,4 @@
+Book Title: How Music Works
+Book Price: Â£37.32
+In Stock: Instock
+Book Page: ../../how-music-works_979/index.html

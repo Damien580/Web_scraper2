@@ -1,0 +1,4 @@
+Book Title: Nightstruck: A Novel
+Book Price: Â£50.35
+In Stock: Instock
+Book Page: ../../nightstruck-a-novel_480/index.html

@@ -1,0 +1,4 @@
+Book Title: The Darkest Lie
+Book Price: Â£35.35
+In Stock: Instock
+Book Page: ../../the-darkest-lie_747/index.html

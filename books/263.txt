@@ -1,0 +1,4 @@
+Book Title: Steve Jobs
+Book Price: Â£39.50
+In Stock: Instock
+Book Page: ../../steve-jobs_737/index.html

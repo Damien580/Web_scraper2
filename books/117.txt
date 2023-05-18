@@ -1,0 +1,4 @@
+Book Title: Bossypants
+Book Price: Â£49.46
+In Stock: Instock
+Book Page: ../../bossypants_883/index.html

@@ -1,0 +1,4 @@
+Book Title: On a Midnight Clear
+Book Price: Â£14.07
+In Stock: Instock
+Book Page: ../../on-a-midnight-clear_912/index.html

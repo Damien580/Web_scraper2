@@ -1,0 +1,4 @@
+Book Title: A People's History of ...
+Book Price: Â£40.79
+In Stock: Instock
+Book Page: ../../a-peoples-history-of-the-united-states_654/index.html

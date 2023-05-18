@@ -1,0 +1,4 @@
+Book Title: H is for Hawk
+Book Price: Â£57.42
+In Stock: Instock
+Book Page: ../../h-is-for-hawk_102/index.html

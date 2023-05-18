@@ -1,0 +1,4 @@
+Book Title: The Art Book
+Book Price: Â£32.34
+In Stock: Instock
+Book Page: ../../the-art-book_490/index.html

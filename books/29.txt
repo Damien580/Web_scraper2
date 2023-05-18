@@ -1,0 +1,4 @@
+Book Title: Wall and Piece
+Book Price: Â£44.18
+In Stock: Instock
+Book Page: ../../wall-and-piece_971/index.html

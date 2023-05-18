@@ -1,0 +1,4 @@
+Book Title: The Alien Club
+Book Price: Â£54.40
+In Stock: Instock
+Book Page: ../../the-alien-club_569/index.html

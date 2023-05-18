@@ -1,0 +1,4 @@
+Book Title: The Girl You Lost
+Book Price: Â£12.29
+In Stock: Instock
+Book Page: ../../the-girl-you-lost_66/index.html

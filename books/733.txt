@@ -1,0 +1,4 @@
+Book Title: The Nightingale
+Book Price: Â£26.26
+In Stock: Instock
+Book Page: ../../the-nightingale_267/index.html

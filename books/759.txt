@@ -1,0 +1,4 @@
+Book Title: The Day the Crayons ...
+Book Price: Â£26.33
+In Stock: Instock
+Book Page: ../../the-day-the-crayons-came-home-crayons_241/index.html

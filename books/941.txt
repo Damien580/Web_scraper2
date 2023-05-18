@@ -1,0 +1,4 @@
+Book Title: The Bette Davis Club
+Book Price: Â£30.66
+In Stock: Instock
+Book Page: ../../the-bette-davis-club_59/index.html

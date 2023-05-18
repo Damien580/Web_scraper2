@@ -1,0 +1,4 @@
+Book Title: El Deafo
+Book Price: Â£57.62
+In Stock: Instock
+Book Page: ../../el-deafo_691/index.html

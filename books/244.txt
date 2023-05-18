@@ -1,0 +1,4 @@
+Book Title: The Loney
+Book Price: Â£23.40
+In Stock: Instock
+Book Page: ../../the-loney_756/index.html

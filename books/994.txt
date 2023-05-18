@@ -1,0 +1,4 @@
+Book Title: Beyond Good and Evil
+Book Price: Â£43.38
+In Stock: Instock
+Book Page: ../../beyond-good-and-evil_6/index.html

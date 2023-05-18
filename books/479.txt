@@ -1,0 +1,4 @@
+Book Title: History of Beauty
+Book Price: Â£10.29
+In Stock: Instock
+Book Page: ../../history-of-beauty_521/index.html

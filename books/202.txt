@@ -1,0 +1,4 @@
+Book Title: Close to You
+Book Price: Â£49.46
+In Stock: Instock
+Book Page: ../../close-to-you_798/index.html

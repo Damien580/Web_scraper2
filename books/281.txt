@@ -1,0 +1,4 @@
+Book Title: My Mrs. Brown
+Book Price: Â£24.48
+In Stock: Instock
+Book Page: ../../my-mrs-brown_719/index.html

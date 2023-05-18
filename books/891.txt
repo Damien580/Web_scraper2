@@ -1,0 +1,4 @@
+Book Title: The Course of Love
+Book Price: Â£16.78
+In Stock: Instock
+Book Page: ../../the-course-of-love_109/index.html

@@ -1,0 +1,4 @@
+Book Title: Exit, Pursued by a ...
+Book Price: Â£51.34
+In Stock: Instock
+Book Page: ../../exit-pursued-by-a-bear_591/index.html

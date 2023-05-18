@@ -1,0 +1,4 @@
+Book Title: Running with Scissors
+Book Price: Â£12.91
+In Stock: Instock
+Book Page: ../../running-with-scissors_215/index.html

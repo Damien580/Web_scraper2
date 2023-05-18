@@ -1,0 +1,4 @@
+Book Title: The Hiding Place
+Book Price: Â£55.91
+In Stock: Instock
+Book Page: ../../the-hiding-place_406/index.html

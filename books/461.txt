@@ -1,0 +1,4 @@
+Book Title: Rising Strong
+Book Price: Â£21.82
+In Stock: Instock
+Book Page: ../../rising-strong_539/index.html

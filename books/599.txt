@@ -1,0 +1,4 @@
+Book Title: The Expatriates
+Book Price: Â£44.58
+In Stock: Instock
+Book Page: ../../the-expatriates_401/index.html

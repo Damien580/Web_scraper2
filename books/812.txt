@@ -1,0 +1,4 @@
+Book Title: Life Without a Recipe
+Book Price: Â£59.04
+In Stock: Instock
+Book Page: ../../life-without-a-recipe_188/index.html

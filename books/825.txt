@@ -1,0 +1,4 @@
+Book Title: In the Garden of ...
+Book Price: Â£28.85
+In Stock: Instock
+Book Page: ../../in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html

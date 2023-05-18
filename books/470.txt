@@ -1,0 +1,4 @@
+Book Title: Les Fleurs du Mal
+Book Price: Â£29.04
+In Stock: Instock
+Book Page: ../../les-fleurs-du-mal_530/index.html

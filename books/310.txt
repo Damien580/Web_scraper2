@@ -1,0 +1,4 @@
+Book Title: Eight Hundred Grapes
+Book Price: Â£14.39
+In Stock: Instock
+Book Page: ../../eight-hundred-grapes_690/index.html

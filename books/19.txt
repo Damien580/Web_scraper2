@@ -1,4 +1,4 @@
-Book Title: So You've Been Publicly ... 
-Book Price: Â£12.23 
-In Stock: Instock 
-Book Page: ../../../so-youve-been-publicly-shamed_832/index.html
+Book Title: It's Only the Himalayas
+Book Price: Â£45.17
+In Stock: Instock
+Book Page: ../../its-only-the-himalayas_981/index.html

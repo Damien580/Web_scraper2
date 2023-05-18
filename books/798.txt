@@ -1,0 +1,4 @@
+Book Title: Orange Is the New ...
+Book Price: Â£24.61
+In Stock: Instock
+Book Page: ../../orange-is-the-new-black_202/index.html

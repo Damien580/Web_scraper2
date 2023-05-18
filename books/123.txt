@@ -1,0 +1,4 @@
+Book Title: A Murder in Time
+Book Price: Â£16.64
+In Stock: Instock
+Book Page: ../../a-murder-in-time_877/index.html

@@ -1,0 +1,4 @@
+Book Title: The Art of War
+Book Price: Â£33.34
+In Stock: Instock
+Book Page: ../../the-art-of-war_838/index.html

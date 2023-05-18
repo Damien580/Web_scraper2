@@ -1,0 +1,4 @@
+Book Title: The Hitchhiker's Guide to ...
+Book Price: Â£47.80
+In Stock: Instock
+Book Page: ../../the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html

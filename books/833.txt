@@ -1,0 +1,4 @@
+Book Title: Holidays on Ice
+Book Price: Â£51.07
+In Stock: Instock
+Book Page: ../../holidays-on-ice_167/index.html

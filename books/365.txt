@@ -1,0 +1,4 @@
+Book Title: The Dinner Party
+Book Price: Â£56.54
+In Stock: Instock
+Book Page: ../../the-dinner-party_635/index.html

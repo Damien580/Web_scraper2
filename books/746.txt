@@ -1,0 +1,4 @@
+Book Title: The Guns of August
+Book Price: Â£14.54
+In Stock: Instock
+Book Page: ../../the-guns-of-august_254/index.html

@@ -1,0 +1,4 @@
+Book Title: Misery
+Book Price: Â£34.79
+In Stock: Instock
+Book Page: ../../misery_332/index.html

@@ -1,0 +1,4 @@
+Book Title: Siddhartha
+Book Price: Â£34.22
+In Stock: Instock
+Book Page: ../../siddhartha_393/index.html

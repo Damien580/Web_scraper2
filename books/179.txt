@@ -1,0 +1,4 @@
+Book Title: Mrs. Houdini
+Book Price: Â£30.25
+In Stock: Instock
+Book Page: ../../mrs-houdini_821/index.html

@@ -1,0 +1,4 @@
+Book Title: Little Red
+Book Price: Â£13.47
+In Stock: Instock
+Book Page: ../../little-red_817/index.html

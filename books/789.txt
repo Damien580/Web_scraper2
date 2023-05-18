@@ -1,0 +1,4 @@
+Book Title: Reservations for Two
+Book Price: Â£11.10
+In Stock: Instock
+Book Page: ../../reservations-for-two_211/index.html

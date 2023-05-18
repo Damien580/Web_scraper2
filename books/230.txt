@@ -1,0 +1,4 @@
+Book Title: The Year of Magical ...
+Book Price: Â£43.04
+In Stock: Instock
+Book Page: ../../the-year-of-magical-thinking_770/index.html

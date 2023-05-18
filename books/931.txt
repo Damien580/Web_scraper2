@@ -1,0 +1,4 @@
+Book Title: The Iliad
+Book Price: Â£16.16
+In Stock: Instock
+Book Page: ../../the-iliad_69/index.html

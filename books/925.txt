@@ -1,0 +1,4 @@
+Book Title: The Nicomachean Ethics
+Book Price: Â£36.34
+In Stock: Instock
+Book Page: ../../the-nicomachean-ethics_75/index.html

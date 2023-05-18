@@ -1,0 +1,4 @@
+Book Title: Thirteen Reasons Why
+Book Price: Â£52.72
+In Stock: Instock
+Book Page: ../../thirteen-reasons-why_866/index.html

@@ -1,0 +1,4 @@
+Book Title: Harry Potter and the ...
+Book Price: Â£23.32
+In Stock: Instock
+Book Page: ../../harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html

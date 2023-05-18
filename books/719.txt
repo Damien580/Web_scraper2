@@ -1,0 +1,4 @@
+Book Title: The Smitten Kitchen Cookbook
+Book Price: Â£23.59
+In Stock: Instock
+Book Page: ../../the-smitten-kitchen-cookbook_281/index.html

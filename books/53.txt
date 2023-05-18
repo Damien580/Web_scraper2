@@ -1,0 +1,4 @@
+Book Title: This One Summer
+Book Price: Â£19.49
+In Stock: Instock
+Book Page: ../../this-one-summer_947/index.html

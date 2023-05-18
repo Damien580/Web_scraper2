@@ -1,0 +1,4 @@
+Book Title: The Good Girl
+Book Price: Â£49.03
+In Stock: Instock
+Book Page: ../../the-good-girl_497/index.html

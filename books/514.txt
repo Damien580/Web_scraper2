@@ -1,0 +1,4 @@
+Book Title: Sit, Stay, Love
+Book Price: Â£20.90
+In Stock: Instock
+Book Page: ../../sit-stay-love_486/index.html

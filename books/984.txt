@@ -1,0 +1,4 @@
+Book Title: Eat, Pray, Love
+Book Price: Â£51.32
+In Stock: Instock
+Book Page: ../../eat-pray-love_16/index.html

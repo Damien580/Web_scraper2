@@ -1,0 +1,4 @@
+Book Title: What's It Like in ...
+Book Price: Â£19.60
+In Stock: Instock
+Book Page: ../../whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html

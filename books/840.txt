@@ -1,0 +1,4 @@
+Book Title: Girl in the Blue ...
+Book Price: Â£46.83
+In Stock: Instock
+Book Page: ../../girl-in-the-blue-coat_160/index.html

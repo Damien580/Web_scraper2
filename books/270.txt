@@ -1,0 +1,4 @@
+Book Title: Robin War
+Book Price: Â£47.82
+In Stock: Instock
+Book Page: ../../robin-war_730/index.html

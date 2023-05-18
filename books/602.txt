@@ -1,0 +1,4 @@
+Book Title: The Crossover
+Book Price: Â£38.77
+In Stock: Instock
+Book Page: ../../the-crossover_398/index.html

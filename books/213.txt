@@ -1,0 +1,4 @@
+Book Title: Amatus
+Book Price: Â£50.54
+In Stock: Instock
+Book Page: ../../amatus_787/index.html

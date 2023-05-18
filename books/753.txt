@@ -1,0 +1,4 @@
+Book Title: The Exiled
+Book Price: Â£43.45
+In Stock: Instock
+Book Page: ../../the-exiled_247/index.html

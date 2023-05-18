@@ -1,0 +1,4 @@
+Book Title: Thinking, Fast and Slow
+Book Price: Â£21.14
+In Stock: Instock
+Book Page: ../../thinking-fast-and-slow_289/index.html

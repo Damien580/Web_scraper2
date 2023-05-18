@@ -1,0 +1,4 @@
+Book Title: Batman: The Long Halloween ...
+Book Price: Â£36.50
+In Stock: Instock
+Book Page: ../../batman-the-long-halloween-batman_793/index.html

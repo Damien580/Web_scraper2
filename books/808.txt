@@ -1,0 +1,4 @@
+Book Title: Manuscript Found in Accra
+Book Price: Â£34.98
+In Stock: Instock
+Book Page: ../../manuscript-found-in-accra_192/index.html

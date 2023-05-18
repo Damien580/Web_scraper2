@@ -1,0 +1,4 @@
+Book Title: Big Little Lies
+Book Price: Â£22.11
+In Stock: Instock
+Book Page: ../../big-little-lies_129/index.html

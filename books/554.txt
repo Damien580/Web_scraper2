@@ -1,0 +1,4 @@
+Book Title: The Great Railway Bazaar
+Book Price: Â£30.54
+In Stock: Instock
+Book Page: ../../the-great-railway-bazaar_446/index.html

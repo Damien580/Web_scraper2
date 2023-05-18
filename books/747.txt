@@ -1,0 +1,4 @@
+Book Title: The Guernsey Literary and ...
+Book Price: Â£49.53
+In Stock: Instock
+Book Page: ../../the-guernsey-literary-and-potato-peel-pie-society_253/index.html

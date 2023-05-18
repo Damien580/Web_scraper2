@@ -1,0 +1,4 @@
+Book Title: Original Fake
+Book Price: Â£31.45
+In Stock: Instock
+Book Page: ../../original-fake_203/index.html

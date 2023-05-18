@@ -1,0 +1,4 @@
+Book Title: Sophie's World
+Book Price: Â£15.94
+In Stock: Instock
+Book Page: ../../sophies-world_966/index.html

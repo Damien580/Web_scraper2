@@ -1,0 +1,4 @@
+Book Title: The House by the ...
+Book Price: Â£36.95
+In Stock: Instock
+Book Page: ../../the-house-by-the-lake_846/index.html

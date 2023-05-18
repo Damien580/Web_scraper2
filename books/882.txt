@@ -1,0 +1,4 @@
+Book Title: A Walk in the ...
+Book Price: Â£30.48
+In Stock: Instock
+Book Page: ../../a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html

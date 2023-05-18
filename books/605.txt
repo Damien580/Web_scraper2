@@ -1,0 +1,4 @@
+Book Title: Tell Me Three Things
+Book Price: Â£41.81
+In Stock: Instock
+Book Page: ../../tell-me-three-things_395/index.html

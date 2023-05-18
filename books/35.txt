@@ -1,0 +1,4 @@
+Book Title: Penny Maybe
+Book Price: Â£33.29
+In Stock: Instock
+Book Page: ../../penny-maybe_965/index.html

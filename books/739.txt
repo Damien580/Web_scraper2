@@ -1,0 +1,4 @@
+Book Title: The Lonely Ones
+Book Price: Â£43.59
+In Stock: Instock
+Book Page: ../../the-lonely-ones_261/index.html

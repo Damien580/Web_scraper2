@@ -1,0 +1,4 @@
+Book Title: The Tumor
+Book Price: Â£41.56
+In Stock: Instock
+Book Page: ../../the-tumor_85/index.html

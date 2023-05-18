@@ -1,0 +1,4 @@
+Book Title: Awkward
+Book Price: Â£38.02
+In Stock: Instock
+Book Page: ../../awkward_124/index.html
