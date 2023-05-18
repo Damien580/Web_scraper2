@@ -1,4 +1,4 @@
-Book Title: And Then There Were ... 
-Book Price: Â£35.01 
+Book Title: Everydata: The Misinformation Hidden ... 
+Book Price: Â£54.35 
 In Stock: Instock 
-Book Page: ../../../and-then-there-were-none_119/index.html
+Book Page: ../../../everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html

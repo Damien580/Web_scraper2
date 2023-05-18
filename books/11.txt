@@ -1,4 +1,4 @@
-Book Title: Beowulf 
-Book Price: Â£38.35 
+Book Title: In the Country We ... 
+Book Price: Â£22.00 
 In Stock: Instock 
-Book Page: ../../../beowulf_126/index.html
+Book Page: ../../../in-the-country-we-love-my-family-divided_901/index.html

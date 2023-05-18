@@ -1,4 +1,4 @@
-Book Title: The Pilgrim's Progress 
-Book Price: Â£50.26 
+Book Title: Reasons to Stay Alive 
+Book Price: Â£26.41 
 In Stock: Instock 
-Book Page: ../../../the-pilgrims-progress_353/index.html
+Book Page: ../../../reasons-to-stay-alive_959/index.html

@@ -1,4 +1,4 @@
-Book Title: Emma 
-Book Price: Â£32.93 
+Book Title: The Genius of Birds 
+Book Price: Â£17.24 
 In Stock: Instock 
-Book Page: ../../../emma_17/index.html
+Book Page: ../../../the-genius-of-birds_843/index.html

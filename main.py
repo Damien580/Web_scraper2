@@ -6,7 +6,7 @@ import requests #pip install requests. Acts as a person going and getting info f
 # high_price = input('>') #searches for the specific input string. Not a greater than function.
 # print(f'Filtering out higher prices')
 
-def get_books():
+def get_classics():
     html_text = requests.get('https://books.toscrape.com/catalogue/category/books/classics_6/index.html').text #uses URL of website to be scraped.
     soup = BeautifulSoup(html_text, 'lxml') #pip install lxml.
     classics = soup.find_all('li', class_ = 'col-xs-6 col-sm-4 col-md-3 col-lg-3') #finds all li tags with this
@@ -30,6 +30,6 @@ def get_books():
 
 if __name__ == "__main__":
     while True: #this will run get_books function so long as name == "main".
-        get_books()
+        get_classics()
         time_wait = 24 #hours variable
         time.sleep(time_wait * 3600) #this is a delay between runs of the program in seconds. 24 * 3600 seconds is 1 day.

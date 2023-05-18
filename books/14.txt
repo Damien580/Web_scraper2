@@ -1,4 +1,4 @@
-Book Title: The Little Prince 
-Book Price: Â£45.42 
+Book Title: Algorithms to Live By: ... 
+Book Price: Â£30.81 
 In Stock: Instock 
-Book Page: ../../../the-little-prince_72/index.html
+Book Page: ../../../algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
