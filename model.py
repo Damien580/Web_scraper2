@@ -12,6 +12,14 @@ class User(db.Model, UserMixin):
     password = db.Column(db.String, nullable=False)
     email = db.Column(db.String, nullable=False)
     
+    def __init__(self, username, password, email):
+        self.username = username
+        self.password = password
+        self.email = email
+        
+    def __repr__(self):
+        return f"User: ID={self.user_id} Username={self.username}"
+    
 class Book(db.Model):
     __tablename__ = "books"
     
@@ -27,6 +35,15 @@ class Book(db.Model):
     
     def __repr__(self):
         return f"<Book: ID={self.book_id} Title={self.book_title}"
+    
+
+
+
+
+
+
+
+
     
 def connect_to_db(app):
         app.config["SQLALCHEMY_DATABASE_URI"] = os.environ["POSTGRES_URI"]

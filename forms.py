@@ -7,5 +7,10 @@ from wtforms.fields import RadioField
 class NewUserForm(FlaskForm):
     new_username = StringField('Username', validators=[DataRequired(), Length(min=4, max=255)])
     new_password = StringField('Password', validators=[DataRequired(), Length(min=8, max=24)])
-    user_email = StringField('Email', validators=[DataRequired()])
+    new_email = StringField('Email', validators=[DataRequired()])
     submit = SubmitField('Create')
+    
+class LoginForm(FlaskForm):
+    username = StringField("Username")
+    password = PasswordField("Password")
+    submit = SubmitField("Submit")

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+
+{% block body %}
+<div class="login-in-form">
+    <p>Log In:</p>
+    <form class="login" action="/login" method="POST">
+        {{ login_form.csrf_token() }}
+        {{ login_form.username.label(class="home-text") }}<br>
+        {{ login_form.username(class="home-field") }}<br><br>
+        {{ login_form.password.label(class="home-text") }}<br>
+        {{ login_form.password(class="home-field") }}<br><br>
+        {{ login_form.submit(value="Log In", class="btn-submit") }}
+    </form>
+</div>
+{% endblock %}
