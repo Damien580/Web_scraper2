@@ -1,6 +1,8 @@
 import time
 from bs4 import BeautifulSoup
 import requests
+from model import Book, db
+
 
 def get_books():
     index = 0
@@ -13,16 +15,15 @@ def get_books():
             book_stock = book.find('p', class_='instock availability').text.replace(' ', '') #finds all books listed as Instock.
             if 'Instock' in book_stock:
                 book_title = book.find('h3').text #gets title info and displays it as a string rather than html element.
+                book_pic = book.article.div.a['href']
                 book_price = book.find('p', class_='price_color').text #gets price info and displays it as a string rather than html element.
-                book_page = book.article.h3.a['href'] #gets value of href in the <a> tag.
-                book = Book(book_title, book_price, book_page)
-                # with open(f'books/{index}.txt', 'w') as f: #iterates over each book by index and starts a .txt file in the books dir with the index as the name.
-                #     f.write(f'Book Title: {book_title}\n')
-                #     f.write(f'Book Price: {book_price}\n')
-                #     f.write(f'In Stock: {book_stock.strip()}\n')
-                #     f.write(f'Book Page: {book_page}')
-                # print(f'Book Saved: {book_title}')
-                
+                book_page = book.article.h3.a['href'] #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
+                star_rating = book.find("p", class_="star-rating")
+                stars = star_rating.find_all("i", class_="icon-star")
+                book_rating = book.rating = len(stars)
+                book = Book(book_title, book_pic, book_price, book_page, book_rating)
+                db.session.add(book)
+                db.session.commit()
                 
                 index += 1 #adds 1 to index to move the iteration to the next book.
 

@@ -7,7 +7,7 @@ db = SQLAlchemy()
 class User(db.Model, UserMixin):
     __tablename__ = "users"
     
-    user_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     username = db.Column(db.String, nullable=False, unique=True)
     password = db.Column(db.String, nullable=False)
     email = db.Column(db.String, nullable=False)
@@ -23,15 +23,19 @@ class User(db.Model, UserMixin):
 class Book(db.Model):
     __tablename__ = "books"
     
-    book_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     book_title = db.Column(db.String, nullable=False)
+    book_pic = db.Column(db.String, nullable=False)
     book_price = db.Column(db.String, nullable=False)
-    book_page = db.Column(db.Text, nullable=False)
+    book_page = db.Column(db.String, nullable=False)
+    book_rating = db.Column(db.Integer)
     
-    def __init__(self, book_title, book_price, book_page):
+    def __init__(self, book_title, book_pic, book_price, book_page, book_rating):
         self.book_title = book_title
+        self.book_pic = book_pic
         self.book_price = book_price
         self.book_page = book_page
+        self.book_rating = book_rating
 
     def __repr__(self):
         return f"<Book: ID={self.book_id} Title={self.book_title}"
@@ -44,7 +48,8 @@ def connect_to_db(app):
         db.init_app(app)
         print("Connected to the db!")
 
-    
+
+   
 if __name__ == "__main__":
     from server import app
     connect_to_db(app)
