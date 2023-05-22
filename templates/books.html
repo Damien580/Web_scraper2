@@ -2,17 +2,11 @@
 
 {% block body %}
 {% for book in books %}
-<article>
-    <div>
-        <img src="{{ book_pic }}" alt="{{ book_title }}">
-    </div>
-    <p>Rating: {{ books.book_rating }} of 5.</p>
-    <h3>
-        <a href="{{ books.book_page }}">{{ books.book_title }}</a>
-    </h3>
-    <div>
-        <p>{{ books.book_price }}</p>
-    </div>
-</article>
+<div class="book">
+  <h2>{{ book.book_title }}</h2>
+  <img src="{{ book.book_pic }}" alt="{{ book.book_title }}">
+  <p>{{ book.book_price }}</p>
+  <a href="{{ book.book_page }}">Read more</a>
+</div>
 {% endfor %}
 {% endblock %}
