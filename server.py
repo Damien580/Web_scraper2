@@ -31,13 +31,20 @@ def new_user():
             db.session.add(new_user)
             db.session.commit()
             flash(f'Welcome {new_username}, Please Log In!!!')
-        return redirect("/")
+        return redirect(url_for("home"))
     else:
         flash('Please Try Again') 
-        return redirect("/new_user")
+    return render_template("new_user.html", new_user_form=new_user_form)
+           
 
+   
+# db.create_all()
 
 
 if __name__ == "__main__":
+    from model import Book, User, connect_to_db, db
     connect_to_db(app)
+    with app.app_context():
+        db.create_all()
     app.run(debug = True, port = 8001, host = "localhost")
+    

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div>
+    <p>Sign Up:</p>
+    <form  action="{{ url_for('new_user') }}"  method="POST">
+        {{ new_user_form.csrf_token() }}
+        {{ new_user_form.new_username.label }}
+        {{ new_user_form.new_username }}
+        {{ new_user_form.new_password.label }}
+        {{ new_user_form.new_password }}
+        {{ new_user_form.new_email.label }}
+        {{ new_user_form.new_email }}
+        {{ new_user_form.submit(value="Submit") }}
+    </form>
+</div>
+{% endblock %}

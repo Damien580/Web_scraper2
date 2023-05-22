@@ -15,6 +15,7 @@ def get_books():
                 book_title = book.find('h3').text #gets title info and displays it as a string rather than html element.
                 book_price = book.find('p', class_='price_color').text #gets price info and displays it as a string rather than html element.
                 book_page = book.article.h3.a['href'] #gets value of href in the <a> tag.
+                book = Book(book_title, book_price, book_page)
                 # with open(f'books/{index}.txt', 'w') as f: #iterates over each book by index and starts a .txt file in the books dir with the index as the name.
                 #     f.write(f'Book Title: {book_title}\n')
                 #     f.write(f'Book Price: {book_price}\n')
