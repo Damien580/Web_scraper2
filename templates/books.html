@@ -1,12 +1,14 @@
 {% extends "base.html" %}
 
 {% block body %}
-{% for book in books %}
-<div class="book">
-  <h2>{{ book.book_title }}</h2>
-  <img src="{{ book.book_pic }}" alt="{{ book.book_title }}">
-  <p>{{ book.book_price }}</p>
-  <a href="{{ book.book_page }}">Read more</a>
-</div>
-{% endfor %}
+  {% if books %}
+    <ul>
+      {% for book in books %}
+      <li>
+        <p>{{ book.book_title }}</p>
+        <p>{{ book.book_pic }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 {% endblock %}

@@ -1,3 +1,4 @@
+import re
 import time
 from bs4 import BeautifulSoup
 import requests
@@ -15,19 +16,17 @@ def get_books():
             book_stock = book.find('p', class_='instock availability').text.replace(' ', '') #finds all books listed as Instock.
             if 'Instock' in book_stock:
                 book_title = book.find('h3').text #gets title info and displays it as a string rather than html element.
-                book_pic = book.article.div.a['href']
+                book_pic = book.find('a', attrs={'href': re.compile("^https://")})
                 book_price = book.find('p', class_='price_color').text #gets price info and displays it as a string rather than html element.
                 book_page = book.article.h3.a['href'] #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
-                star_rating = book.find("p", class_="star-rating")
-                stars = star_rating.find_all("i", class_="icon-star")
-                book_rating = book.rating = len(stars)
-                book = Book(book_title, book_pic, book_price, book_page, book_rating)
+                book = Book(book_title, book_pic, book_price, book_page)
                 db.session.add(book)
                 db.session.commit()
                 
                 index += 1 #adds 1 to index to move the iteration to the next book.
 
-
+def get_all_books():
+    return Book.query.all()
 
 
 
