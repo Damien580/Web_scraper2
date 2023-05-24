@@ -28,14 +28,12 @@ class Book(db.Model):
     book_pic = db.Column(db.String, nullable=False)
     book_price = db.Column(db.String, nullable=False)
     book_page = db.Column(db.String, nullable=False)
-    book_rating = db.Column(db.Integer)
     
-    def __init__(self, book_title, book_pic, book_price, book_page, book_rating):
+    def __init__(self, book_title, book_pic, book_price, book_page):
         self.book_title = book_title
         self.book_pic = book_pic
         self.book_price = book_price
         self.book_page = book_page
-        self.book_rating = book_rating
 
     def __repr__(self):
         return f"<Book: ID={self.book_id} Title={self.book_title}"

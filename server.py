@@ -3,7 +3,7 @@ from flask import Flask, render_template, flash, redirect, url_for, request, ses
 from flask_login import LoginManager, login_user, login_required, current_user, logout_user
 from forms import NewUserForm, LoginForm
 from model import Book, User, connect_to_db, db
-from main import get_books
+from scraper import get_books
 from bs4 import BeautifulSoup
 import requests
 
@@ -78,9 +78,9 @@ def get_books():
             book_stock = book.find('p', class_='instock availability').text.replace(' ', '') #finds all books listed as Instock.
             if 'Instock' in book_stock:
                 book_title = book.find('h3').text #gets title info and displays it as a string rather than html element.
-                book_pic = book.article.div.a['href'].text
+                book_pic = book.article.div.a['href']
                 book_price = book.find('p', class_='price_color').text #gets price info and displays it as a string rather than html element.
-                book_page = book.article.h3.a['href'].text #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
+                book_page = book.article.h3.a['href'] #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
                 book = Book(book_title, book_pic, book_price, book_page)
                 db.session.add(book)
                 db.session.commit()
