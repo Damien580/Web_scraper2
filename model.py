@@ -25,7 +25,7 @@ class Book(db.Model):
     
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     book_title = db.Column(db.String, nullable=False)
-    book_pic = db.Column(db.String, nullable=False)
+    book_pic = db.Column(db.String)
     book_price = db.Column(db.String, nullable=False)
     book_page = db.Column(db.String, nullable=False)
     

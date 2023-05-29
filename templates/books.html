@@ -6,7 +6,7 @@
       {% for book in books %}
       <li>
         <p>{{ book.book_title }}</p>
-        <p>{{ book.book_pic }}</p>
+        <img src="{{ book.book_pic }}">
       </li>
       {% endfor %}
     </ul>

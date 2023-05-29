@@ -16,7 +16,11 @@ def get_books():
             book_stock = book.find('p', class_='instock availability').text.replace(' ', '') #finds all books listed as Instock.
             if 'Instock' in book_stock:
                 book_title = book.find('h3').text #gets title info and displays it as a string rather than html element.
-                book_pic = book.find('a', attrs={'href': re.compile("^https://")})
+                book_pic_tag = book.find('img', class_='thumbnail')
+                if book_pic_tag:
+                    book_pic = book_pic_tag['src']
+                else:
+                    book_pic = None
                 book_price = book.find('p', class_='price_color').text #gets price info and displays it as a string rather than html element.
                 book_page = book.article.h3.a['href'] #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
                 book = Book(book_title, book_pic, book_price, book_page)
