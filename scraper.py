@@ -3,10 +3,12 @@ import time
 from bs4 import BeautifulSoup
 import requests
 from model import Book, db
+from urllib.parse import urljoin
 
 
 def get_books():
     index = 0
+    base_url = 'https://books.toscrape.com/catalogue/' #creates the base url for the images
     for page_number in range(1, 51):
         url = 'https://books.toscrape.com/catalogue/category/books_1/page-{}.html'.format(page_number)
         html_text = requests.get(url).text #uses URL of website to be scraped.
@@ -16,13 +18,11 @@ def get_books():
             book_stock = book.find('p', class_='instock availability').text.replace(' ', '') #finds all books listed as Instock.
             if 'Instock' in book_stock:
                 book_title = book.find('h3').text #gets title info and displays it as a string rather than html element.
-                book_pic_tag = book.find('img', class_='thumbnail')
-                if book_pic_tag:
-                    book_pic = book_pic_tag['src']
-                else:
-                    book_pic = None
+                book_pic = book.find('img', class_='thumbnail')['src'] #grabs the url from the html of the page
+                book_pic = urljoin(base_url, book_pic) #adds baseurl and the url from page together to make complete link
                 book_price = book.find('p', class_='price_color').text #gets price info and displays it as a string rather than html element.
-                book_page = book.article.h3.a['href'] #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
+                book_page = book.find('h3').a['href'] #gets value of href in the <a> tag inside the <h3> inside the <article> tag.
+                # book_page = urljoin(base_url, book_page)
                 book = Book(book_title, book_pic, book_price, book_page)
                 db.session.add(book)
                 db.session.commit()

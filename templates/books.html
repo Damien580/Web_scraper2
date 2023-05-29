@@ -2,13 +2,16 @@
 
 {% block body %}
   {% if books %}
-    <ul>
+    <ol>
       {% for book in books %}
       <li>
-        <p>{{ book.book_title }}</p>
-        <img src="{{ book.book_pic }}">
+        <a href="{{ book.book_page}}">{{ book.book_title }}</a>
       </li>
+      <li>
+        <img src="{{ book.book_pic }}" alt="image for {{ book.book_title }}">
+      </li>
+      <br>
       {% endfor %}
-    </ul>
+    </ol>
   {% endif %}
 {% endblock %}
