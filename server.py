@@ -62,12 +62,11 @@ def login():
 
 @app.route("/logout")
 def logout():
-    if current_user.is_authenticated:
+    if current_user:
         logout_user()
         flash("You are Logged Out!")
     else:
         flash("You are not Logged In!")
-        
     return redirect("/")
 
 @app.route("/books")
