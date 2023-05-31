@@ -2,10 +2,9 @@ import time
 from flask import Flask, render_template, flash, redirect, url_for, request, session
 from flask_login import LoginManager, login_user, login_required, current_user, logout_user
 from forms import NewUserForm, LoginForm
-from model import Book, User, connect_to_db, db
+from model import User, connect_to_db, db
 import scraper
-from bs4 import BeautifulSoup
-import requests
+
 
 app = Flask(__name__)
 app.secret_key = "Books"
@@ -62,7 +61,7 @@ def login():
 
 @app.route("/logout")
 def logout():
-    if current_user:
+    if current_user.is_authenticated:
         logout_user()
         flash("You are Logged Out!")
     else:
@@ -70,12 +69,12 @@ def logout():
     return redirect("/")
 
 @app.route("/books")
+@login_required
 def all_books():
     all_books = scraper.get_all_books()
     return render_template("books.html", books=all_books)
 
 if __name__ == "__main__":
-    from model import Book, User, connect_to_db, db
     connect_to_db(app)
     with app.app_context():
         db.create_all()

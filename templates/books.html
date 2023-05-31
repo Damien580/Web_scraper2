@@ -7,11 +7,11 @@
       <li>
         <a href="{{ book.book_page}}">{{ book.book_title }}</a>
       </li>
-      <li>
-        <img src="{{ book.book_pic }}" alt="image for {{ book.book_title }}">
-      </li>
+      <img src="{{ book.book_pic }}" alt="image for {{ book.book_title }}">
+      <br>
       <br>
       {% endfor %}
     </ol>
   {% endif %}
 {% endblock %}
+      
