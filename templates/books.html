@@ -8,8 +8,9 @@
         <a href="{{ book.book_page}}">{{ book.book_title }}</a>
       </li>
       <img src="{{ book.book_pic }}" alt="image for {{ book.book_title }}">
-      <br>
-      <br>
+      <form>
+        <input class="button" type="submit" value="Like">
+      </form>
       {% endfor %}
     </ol>
   {% endif %}

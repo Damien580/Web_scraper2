@@ -1,5 +1,5 @@
 import time
-from flask import Flask, render_template, flash, redirect, url_for, request, session
+from flask import Flask, render_template, flash, redirect, url_for, request
 from flask_login import LoginManager, login_user, login_required, current_user, logout_user
 from forms import NewUserForm, LoginForm
 from model import User, connect_to_db, db
@@ -78,9 +78,9 @@ if __name__ == "__main__":
     connect_to_db(app)
     with app.app_context():
         db.create_all()
-        scraper.get_books()
     app.run(debug = True, port = 8001, host = "localhost")
     while True: #this will run get_books function so long as name == "main".
+        scraper.get_books()
         time_wait = 24 #hours variable
         time.sleep(time_wait * 3600) #this is a delay between runs of the program in seconds. 24 * 3600 seconds is 1 day.
     
