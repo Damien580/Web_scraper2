@@ -1,6 +1,6 @@
 import os
 from flask_sqlalchemy import SQLAlchemy
-from flask_login import UserMixin
+from flask_login import UserMixin, current_user
 
 db = SQLAlchemy()
 
@@ -38,7 +38,20 @@ class Book(db.Model):
     def __repr__(self):
         return f"<Book: ID={self.book_id} Title={self.book_title}"
 
-      
+class Like(db.Model):
+    __tablename__ = "like"
+    
+    id = db.Column(db.Integer, primary_key=True)
+    liked = db.Column(db.Integer, db.ForeignKey("users.id"))
+    likes = db.Column(db.Integer, db.ForeignKey("books.id"))
+    
+    def __init__(self, liked, likes):
+        self.liked = liked
+        self.likes = likes
+        
+    
+    
+    
 def connect_to_db(app):
         app.config["SQLALCHEMY_DATABASE_URI"] = os.environ["POSTGRES_URI"]
         app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False

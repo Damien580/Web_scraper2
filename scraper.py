@@ -6,10 +6,10 @@ from urllib.parse import urljoin
 
 def get_books():
     index = 0
-    base_url = "https://books.toscrape.com/" #creates the base url for the images
+    base_url = "https://books.toscrape.com" #creates the base url for the images
     
-    for page_number in range(1, 51):
-        url = 'https://books.toscrape.com'.format(page_number)
+    for page_number in range(1, 52):
+        url = f'https://books.toscrape.com/catalogue/page-{page_number}.html'
         html_text = requests.get(url).text #uses URL of website to be scraped.
         soup = BeautifulSoup(html_text, 'lxml') #pip install lxml.
         books = soup.find_all('li', class_='col-xs-6 col-sm-4 col-md-3 col-lg-3') #finds all li tags with this class.

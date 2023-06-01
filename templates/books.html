@@ -8,9 +8,14 @@
         <a href="{{ book.book_page}}">{{ book.book_title }}</a>
       </li>
       <img src="{{ book.book_pic }}" alt="image for {{ book.book_title }}">
-      <form>
-        <input class="button" type="submit" value="Like">
-      </form>
+      <div class="form-container">
+        <form action="{{ url_for('like') }}" method="POST">
+          {{ like_form.csrf_token() }}
+          {{ like_form.like.label }}
+          {{ like_form.like }}
+          {{ like_form.submit }}
+        </form>
+      </div>
       {% endfor %}
     </ol>
   {% endif %}

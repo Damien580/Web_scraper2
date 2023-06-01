@@ -1,8 +1,8 @@
 import time
 from flask import Flask, render_template, flash, redirect, url_for, request
 from flask_login import LoginManager, login_user, login_required, current_user, logout_user
-from forms import NewUserForm, LoginForm
-from model import User, connect_to_db, db
+from forms import LikeForm, NewUserForm, LoginForm
+from model import Book, Like, User, connect_to_db, db
 import scraper
 
 
@@ -39,6 +39,8 @@ def new_user():
         flash('Please Try Again') 
     return render_template("new_user.html", new_user_form=new_user_form)
            
+
+
 @app.route("/login", methods=["GET", "POST"])
 def login():
     login_form = LoginForm(request.form)
@@ -58,7 +60,7 @@ def login():
             flash("Either the password or username is incorrect!")
 
     return render_template("home.html", login_form=login_form)
-
+    
 @app.route("/logout")
 def logout():
     if current_user.is_authenticated:
@@ -71,16 +73,33 @@ def logout():
 @app.route("/books")
 @login_required
 def all_books():
+    like_form = LikeForm()
     all_books = scraper.get_all_books()
-    return render_template("books.html", books=all_books)
+    return render_template("books.html", books=all_books, like_form=like_form)
+
+@app.route("/books", methods=["POST"])
+@login_required
+def like():
+    like_form = LikeForm()
+    
+    if like_form.validate_on_submit():
+        likes = like_form.like.data
+        new_like=Like(likes)
+        db.session.add(new_like)
+        db.session.commit()
+        flash(f"{Book.book_title} Liked!")
+    else:
+        flash("Please try again!")
+    return render_template("books.html", books=all_books, like_form=like_form)
+
 
 if __name__ == "__main__":
     connect_to_db(app)
     with app.app_context():
         db.create_all()
+        scraper.get_books()
     app.run(debug = True, port = 8001, host = "localhost")
     while True: #this will run get_books function so long as name == "main".
-        scraper.get_books()
         time_wait = 24 #hours variable
         time.sleep(time_wait * 3600) #this is a delay between runs of the program in seconds. 24 * 3600 seconds is 1 day.
     
