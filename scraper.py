@@ -35,8 +35,3 @@ def get_all_books():
 
 
 
-# if __name__ == "__main__":
-#     while True: #this will run get_books function so long as name == "main".
-#         get_books()
-#         time_wait = 24 #hours variable
-#         time.sleep(time_wait * 3600) #this is a delay between runs of the program in seconds. 24 * 3600 seconds is 1 day.
