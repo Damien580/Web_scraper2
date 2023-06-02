@@ -15,6 +15,3 @@ class LoginForm(FlaskForm):
     password = PasswordField("Password")
     submit = SubmitField("Submit")
 
-class LikeForm(FlaskForm):
-    like = BooleanField("Like")
-    submit = SubmitField("Submit")

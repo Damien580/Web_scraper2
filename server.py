@@ -1,8 +1,8 @@
-import time
+
 from flask import Flask, render_template, flash, redirect, url_for, request
 from flask_login import LoginManager, login_user, login_required, current_user, logout_user
-from forms import LikeForm, NewUserForm, LoginForm
-from model import Book, Like, User, connect_to_db, db
+from forms import NewUserForm, LoginForm
+from model import Book, User, connect_to_db, db
 import scraper
 
 
@@ -73,30 +73,20 @@ def logout():
 @app.route("/books")
 @login_required
 def all_books():
-    like_form = LikeForm()
-    all_books = scraper.get_all_books()
-    return render_template("books.html", books=all_books, like_form=like_form)
-
-@app.route("/books", methods=["POST"])
-@login_required
-def like():
-    like_form = LikeForm()
     
-    if like_form.validate_on_submit():
-        likes = like_form.like.data
-        new_like=Like(likes)
-        db.session.add(new_like)
-        db.session.commit()
-        flash(f"{Book.book_title} Liked!")
-    else:
-        flash("Please try again!")
-    return render_template("books.html", books=all_books, like_form=like_form)
+    page = request.args.get('page', 1, type=int)
+    per_page = 20
+    
+    paginated_books = Book.query.paginate(page=page, per_page=per_page)
+    return render_template("books.html", books=paginated_books.items, pagination=paginated_books)
 
+def is_table_empty():
+    return db.session.query(Book).count() == 0
 
 if __name__ == "__main__":
     connect_to_db(app)
     with app.app_context():
         db.create_all()
-        scraper.get_books()
+        if is_table_empty():
+            scraper.get_books()
     app.run(debug = True, port = 8001, host = "localhost")
-    
