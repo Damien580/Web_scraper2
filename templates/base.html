@@ -10,23 +10,21 @@
     <title>Book Scraper</title>
 </head>
 <header>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="navbar">
-        <a class="navbar-brand" href="/">Book Scraper</a>
-        <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="drop">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav w-10 justify-content-between">
-                <li class="nav-item">
-                    <a class="nav-link" href="/new_user">Sign Up</a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="/books">Books</a>
-                </li>
+    <nav class="navbar navbar-expand-lg navbar-dark  fixed-top" id="navbar">
+        <a class="navbar-brand" id="brand" href="/">Book Scraper</a>
+        <input type="checkbox" id="ham-menu">
+        <label for="ham-menu">
+            <div class="hide-des">
+              <span class="menu-line"></span>
+              <span class="menu-line"></span>
+            </div>
+        </label>
+        <div class="ham-menu">
+            <ul class="centre-text bold-text">
+              <li><a class="nav-link" href="/new_user">New User</a></li>
+              <li><a class="nav-link" href="/books">Books</a></li>         
             </ul>
-        </div>
+        </div> 
     </nav>
 </header>
 <br>
