@@ -1,5 +1,5 @@
-
 from flask import Flask, render_template, flash, redirect, url_for, request
+from flask_bcrypt import Bcrypt
 from flask_login import LoginManager, login_user, login_required, current_user, logout_user
 from forms import NewUserForm, LoginForm
 from model import Book, User, connect_to_db, db
@@ -8,6 +8,7 @@ import scraper
 
 app = Flask(__name__)
 app.secret_key = "Books"
+bcrypt = Bcrypt(app)
 
 login_manager = LoginManager()
 login_manager.init_app(app)
@@ -27,7 +28,7 @@ def new_user():
     
     if new_user_form.validate_on_submit():
         new_username = new_user_form.new_username.data
-        new_password = new_user_form.new_password.data
+        new_password = new_password = bcrypt.generate_password_hash(new_user_form.new_password.data).decode('utf-8')
         new_email = new_user_form.new_email.data
         new_user=User(new_username, new_password, new_email)
         with app.app_context():
@@ -53,7 +54,7 @@ def login():
         user = User.query.filter_by(username=username).first()
 
         if user:
-            if user.password == password:
+            if bcrypt.check_password_hash(user.password, password):
                 login_user(user)
                 flash("Logged In!")
         else:    
