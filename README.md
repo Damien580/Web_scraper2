@@ -1,6 +1,6 @@
 # Web_scraper2
 
-I built this webscraper te help teach myself about scraping data, as well as data presentation once it is stored in my database. This is an ongoing project I will be returning to. I created a secure login/user system, a local database and model which will update every 24 hours as long as the server is active, a responsive navbar and collapsible menu, and a basic pagination for ease of navigation. Links refer to pages on an external site I scraped, https://toscrape.com.
+I built this webscraper te help teach myself about scraping data, as well as data presentation once it is stored in my database. This is an ongoing project I will be returning to. I created a secure login/user system, a local database and model which will update every 24 hours as long as the server is active, a responsive navbar and collapsible menu, and a basic pagination for ease of navigation. Links refer to pages on an external site I scraped, https://books.toscrape.com.
 
 ![Screenshot 2023-06-21 at 2 19 07 PM](https://github.com/Damien580/Web_scraper2/assets/122699790/c590bf37-f7da-49ef-ae4b-7221b068a521)
 
